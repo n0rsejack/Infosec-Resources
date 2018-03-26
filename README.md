@@ -68,7 +68,12 @@
 | Name | Description |
 |---|---|
 | Github Awesome Security | [Github Awesome Security Search](https://github.com/topics/awesome?utf8=%E2%9C%93&q=awesome+security&type=) | 
-|Github Awesome Security Sindresorhus | [Sindresorhus Awesome-Security](https://github.com/sindresorhus/awesome#security) |
+| Github Awesome Security Sindresorhus | [Sindresorhus Awesome-Security](https://github.com/sindresorhus/awesome#security) |
+| Github Meirwah Awesome Incident Response | [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response/blob/master/README.md) |
+| Github Hslatman Awesome Threat Intelligence | [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence/blob/master/README.md) |
+| Github Coreb1t Awesome Pentest Cheatsheets | [Awesome Pen Test Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets/blob/master/README.md) |
+| Github 0x4D31 Awesome Threat Detection | [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection/blob/master/README.md) |
+
 
 ### Names to follow
 
