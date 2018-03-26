@@ -1,4 +1,4 @@
-[# Infosec-Resources
+# Infosec-Resources
 
 ## Table of Contents
 
