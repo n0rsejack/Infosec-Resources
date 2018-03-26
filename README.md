@@ -10,7 +10,7 @@
 #### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
-#### [Additional Resources]
+#### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#Additional-Resources-1)
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
 #### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
 
