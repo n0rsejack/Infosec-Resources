@@ -66,8 +66,8 @@
 
 | Name | Description |
 |---|---|
-| Github Awesome Security | [Github Awesome Security Search](https://github.com/topics/awesome?utf8=%E2%9C%93&q=awesome+security&type=) | Github Awesome Security Sindresorhus | [Sindresorhus Awesome-Security](https://github.com/sindresorhus/awesome#security) |
-
+| Github Awesome Security | [Github Awesome Security Search](https://github.com/topics/awesome?utf8=%E2%9C%93&q=awesome+security&type=) | 
+|Github Awesome Security Sindresorhus | [Sindresorhus Awesome-Security](https://github.com/sindresorhus/awesome#security) |
 
 ### Names to follow
 
