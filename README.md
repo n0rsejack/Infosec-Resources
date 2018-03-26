@@ -23,6 +23,12 @@
 |---|---|
 | Penetration Testing Framework 0.59 | [Penetration Testing Framework](www.vulnerabilityassessment.co.uk/Penetration%20Test.html) |
 
+#### Tools
+
+| Name | Description |
+|---|---|
+| urlscan.io | [urlscan](https://urlscan.io) |
+
 #### Training
 
 | Name | Description |
