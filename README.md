@@ -8,6 +8,7 @@
 #### [APTs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#apts-1)
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
 #### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
+#### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
 #### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
@@ -38,6 +39,11 @@
 |---|---|
 | urlscan.io | [urlscan](https://urlscan.io) |
 
+#### OSINT
+
+| Name | Description |
+|---|---|
+
 #### Training
 
 | Name | Description |
@@ -49,6 +55,8 @@
 | DoGByTe-ZN | [Infosec-resources-for-all](https://github.com/DoGByTe-ZN/infosec-resources4all) |
 | GIAC - GPEN Reference | [MeteorMusic](https://www.meteormusic.com/2017/03/19/giac-gpen-certified/) |
 | Awesome Malware Analysis | [rshipp](https://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) |
+| Network Security Monitoring | [CNIT50: Network Security Monitoring](https://samsclass.info/50/50_F17.shtml) |
+| Samsclass | [Samsclass](https://samsclass.info/) |
 
 
 ### Names to follow
