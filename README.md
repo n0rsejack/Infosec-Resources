@@ -29,6 +29,8 @@
 | OSCP-Survival-Guide | [Getsecnow](https://github.com/getsecnow/OSCP-Survival-Guide) |
 | awesomeinfosec | [awesomeinfosec](https://github.com/onlurking/awesome-infosec) |
 | Bettercap Tutorial | [A Bettercap Tutorial](https://danielmiessler.com/study/bettercap/) |
+| Pentesters Lab | [Pentesters Lab](https://www.pentesterlab.com/bootcamp) |
+| DoGByTe-ZN | [Infosec-resources-for-all](https://github.com/DoGByTe-ZN/infosec-resources4all) |
 
 ### Names to follow
 
