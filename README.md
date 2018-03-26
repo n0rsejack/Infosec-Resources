@@ -14,5 +14,7 @@
 
 #### Twitter
 
-- @Cyb3rops (Florian Roth)
+| Name | Description |
+|---|---|
+| Florian Roth | @Cyb3rops |
 
