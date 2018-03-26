@@ -84,4 +84,4 @@
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
 
-### Back to Top [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources) |
+### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
