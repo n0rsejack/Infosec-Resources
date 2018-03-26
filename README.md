@@ -1,4 +1,4 @@
-# Infosec-Resources
+[# Infosec-Resources
 
 ## Table of Contents
 
@@ -16,5 +16,5 @@
 
 | Name | Description |
 |---|---|
-| Florian Roth | @Cyb3rops |
+| Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 
