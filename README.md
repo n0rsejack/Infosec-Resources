@@ -39,6 +39,7 @@
 | Pentesters Lab | [Pentesters Lab](https://www.pentesterlab.com/bootcamp) |
 | DoGByTe-ZN | [Infosec-resources-for-all](https://github.com/DoGByTe-ZN/infosec-resources4all) |
 | GIAC - GPEN Reference | [MeteorMusic](https://www.meteormusic.com/2017/03/19/giac-gpen-certified/) |
+| Awesome Malware Analysis | [rshipp](https://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) |
 
 
 ### Names to follow
