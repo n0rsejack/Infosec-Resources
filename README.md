@@ -20,6 +20,8 @@
 
 | Name | Description |
 |---|---|
+| OSCP-Survival-Guide | [Getsecnow](https://github.com/getsecnow/OSCP-Survival-Guide) |
+| awesomeinfosec | [awesomeinfosec](https://github.com/onlurking/awesome-infosec) |
 
 ### Names to follow
 
