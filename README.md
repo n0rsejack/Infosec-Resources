@@ -4,7 +4,7 @@
 ## Table of Contents
 
 #### Resources
-#### CTFs
+#### [CTFs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
 #### APTs
 #### Pen Testing Frameworks
 #### Tools
