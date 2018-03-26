@@ -10,6 +10,7 @@
 #### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
+#### [Additional Resources]
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
 #### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
 
@@ -60,6 +61,12 @@
 | Awesome Malware Analysis | [rshipp](https://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) |
 | Network Security Monitoring | [CNIT50: Network Security Monitoring](https://samsclass.info/50/50_F17.shtml) |
 | Samsclass | [Samsclass](https://samsclass.info/) |
+
+#### Additional Resources
+
+| Name | Description |
+|---|---|
+| Github Awesome Security | [Github Awesome Security Search](https://github.com/topics/awesome?utf8=%E2%9C%93&q=awesome+security&type=) | Github Awesome Security Sindresorhus | [Sindresorhus Awesome-Security](https://github.com/sindresorhus/awesome#security) |
 
 
 ### Names to follow
