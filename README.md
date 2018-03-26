@@ -6,11 +6,11 @@
 #### Resources
 #### [CTFs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
 #### [APTs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#apts-1)
-#### Pen Testing Frameworks
-#### Tools
-#### Training
-#### Names to Follow
-#### Twitter
+#### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
+#### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
+#### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
+#### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
+#### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
 
 ### Resources
 
