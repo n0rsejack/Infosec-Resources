@@ -79,6 +79,7 @@
 | Github 0x4D31 Awesome Threat Detection | [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection/blob/master/README.md) |
 | Infosec Career Advice | [Starting an InfoSec Career - The Megamix](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/) |
 | Easily Report Phishing and Malware | [Reporting Phishing and Malware](https://decentsecurity.com/malware-web-and-phishing-investigation/) |
+| Github Awesome Windows Domain Hardening | [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening/blob/master/README.md) |
 
 
 ### Names to follow
