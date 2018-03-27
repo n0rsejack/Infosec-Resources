@@ -62,6 +62,7 @@
 | DoGByTe-ZN | [Infosec-resources-for-all](https://github.com/DoGByTe-ZN/infosec-resources4all) |
 | GIAC - GPEN Reference | [MeteorMusic](https://www.meteormusic.com/2017/03/19/giac-gpen-certified/) |
 | Awesome Malware Analysis | [rshipp](https://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) |
+| How to Build a Treat Hunting Platform using ELK Stack | [Threat Hunting ELK Stack](https://www.peerlyst.com/posts/how-to-build-a-threat-hunting-platform-using-elk-stack-chiheb-chebbi) |
 | Network Security Monitoring | [CNIT50: Network Security Monitoring](https://samsclass.info/50/50_F17.shtml) |
 | Samsclass | [Samsclass](https://samsclass.info/) |
 
