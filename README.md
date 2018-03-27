@@ -68,6 +68,7 @@
 | Samsclass | [Samsclass](https://samsclass.info/) |
 | The Easiest Metasploit Guide You'll Ever Read | [Metasploit Guide](https://www.exploit-db.com/docs/english/44040-the-easiest-metasploit-guide-you’ll-ever-read.pdf) |
 | Malware Analysis | [RPISEC Malware Analysis](https://github.com/RPISEC/Malware/blob/master/README.md) |
+| Awesome Hacking Resources | [Vitalysim Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/README.md) |
 
 #### Additional Resources
 
