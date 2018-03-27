@@ -65,6 +65,7 @@
 | How to Build a Treat Hunting Platform using ELK Stack | [Threat Hunting ELK Stack](https://www.peerlyst.com/posts/how-to-build-a-threat-hunting-platform-using-elk-stack-chiheb-chebbi) |
 | Network Security Monitoring | [CNIT50: Network Security Monitoring](https://samsclass.info/50/50_F17.shtml) |
 | Samsclass | [Samsclass](https://samsclass.info/) |
+| The Easiest Metasploit Guide You'll Ever Read | [Metasploit Guide](https://www.exploit-db.com/docs/english/44040-the-easiest-metasploit-guide-you’ll-ever-read.pdf) |
 
 #### Additional Resources
 
