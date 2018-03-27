@@ -45,6 +45,7 @@
 
 | Name | Description |
 |---|---|
+| Bellingcat's Digital Forensics Tools | [Digital Forensics Tools](https://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) |
 
 #### Training
 
