@@ -21,6 +21,7 @@
 | Name | Description |
 |---|---|
 | Awesome-CTF | [Awesome-CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) |
+| CTF Walkthroughs | [HighOn.Coffee CTF Walkthroughs](https://highon.coffee/blog/walkthroughs/) |
 
 #### APT's
 
