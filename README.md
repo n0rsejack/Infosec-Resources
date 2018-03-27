@@ -82,7 +82,8 @@
 | Infosec Career Advice | [Starting an InfoSec Career - The Megamix](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/) |
 | Easily Report Phishing and Malware | [Reporting Phishing and Malware](https://decentsecurity.com/malware-web-and-phishing-investigation/) |
 | Github Awesome Windows Domain Hardening | [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening/blob/master/README.md) |
-| My Time at NetWars Tournament of Champions | [NetWars Tournament Experience](https://www.bishopfox.com/blog/2018/01/my-time-at-netwars-tournament-of-champions/) |
+| My Time at NetWars Tournament of Champions | [NetWars Tournament Experience](https://www.bishopfox.com/blog/2018/01/my-time-at-netwars-tournament-of-champions/) 
+| Penetration Testing Tools Cheatsheet | [Highon.Coffee Pentesting Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) |
 
 
 ### Names to follow
