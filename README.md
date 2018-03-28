@@ -47,6 +47,7 @@
 | Name | Description |
 |---|---|
 | Bellingcat's Digital Forensics Tools | [Digital Forensics Tools](https://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) |
+| Github Jivoi Awesome OSINT | [Jivoi Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) |
 
 #### Training
 
