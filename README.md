@@ -71,6 +71,7 @@
 | The Easiest Metasploit Guide You'll Ever Read | [Metasploit Guide](https://www.exploit-db.com/docs/english/44040-the-easiest-metasploit-guide-you’ll-ever-read.pdf) |
 | Malware Analysis | [RPISEC Malware Analysis](https://github.com/RPISEC/Malware/blob/master/README.md) |
 | Awesome Hacking Resources | [Vitalysim Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/README.md) |
+| Tools and Resources to Prepare for a CTF | [InfoSec Institute](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref) |
 
 #### Additional Resources
 
