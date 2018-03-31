@@ -57,6 +57,7 @@
 | Detailed Guide to OSCP Prep | [Detailed Guide to OSCP Prep](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/) |
 | Offensive Security's PWK & OSCP Review | [Offensive Security's PWK & OSCP Review](https://jhalon.github.io/OSCP-Review/) |
 | OSCP: Offensive Security Certification & PWK Review | [intrd-OSCP Review](http://dann.com.br/oscp-offensive-security-certification-pwk-course-review/) |
+| OSCP: Hakluke's Ultimate Guide | [Haklukes OSCP Guide](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440) |
 | awesomeinfosec | [awesomeinfosec](https://github.com/onlurking/awesome-infosec) |
 | Awesome-Hacking | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md) |
 | Bettercap Tutorial | [A Bettercap Tutorial](https://danielmiessler.com/study/bettercap/) |
