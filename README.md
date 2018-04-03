@@ -93,6 +93,7 @@
 | PwnWiki.io | [Pwn Wiki](http://pwnwiki.io/#!index.md) |
 | Zeltser Blocklists | [Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) |
 | Zeltser Cheatsheets | [Zeltser Cheatsheets](https://zeltser.com/cheat-sheets/) |
+| Cyber Intel Sites | [8 Great Sites for Cyber Threat Intel](https://www.linkedin.com/pulse/8-great-sites-cyber-threat-intel-ely-kahn/) |
 | Linux Journey | [Linux Journey](https://linuxjourney.com) |
 
 
