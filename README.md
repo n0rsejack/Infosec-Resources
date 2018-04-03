@@ -91,6 +91,8 @@
 | Penetration Testing Tools Cheatsheet | [Highon.Coffee Pentesting Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) |
 | Peerlyst Infosec Cheatsheet | [Complete List of Infosec Cheatsheets](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon) |
 | PwnWiki.io | [Pwn Wiki](http://pwnwiki.io/#!index.md) |
+| Zeltser Blocklists | [Zeltser Blocklists](https://zeltser.com/malicious-ip-blocklists/) |
+| Zeltser Cheatsheets | [Zeltser Cheatsheets](https://zeltser.com/cheat-sheets/) |
 | Linux Journey | [Linux Journey](https://linuxjourney.com) |
 
 
