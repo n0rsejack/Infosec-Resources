@@ -96,6 +96,7 @@
 | Cyber Intel Sites | [8 Great Sites for Cyber Threat Intel](https://www.linkedin.com/pulse/8-great-sites-cyber-threat-intel-ely-kahn/) |
 | Threatintel.EU | [A Study on Threat Intelligence Platforms (TIPs)](https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/) |
 | Linux Journey | [Linux Journey](https://linuxjourney.com) |
+| Threat Huning with HELK | [Threat Hunting & Adversary Emulation](https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/) |
 
 
 ### Names to follow
