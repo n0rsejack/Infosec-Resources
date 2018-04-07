@@ -47,6 +47,7 @@
 | Threat Crowd | [Threat Crowd](https://threatcrowd.org/) |
 | Virus Total | [Virus Total](https://www.virustotal.com/) |
 | Hybrid Analysis | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
+| Passive Total | [Passive Total](https://community.riskiq.com/) |
 
 #### OSINT
 
