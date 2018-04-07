@@ -41,6 +41,12 @@
 | Name | Description |
 |---|---|
 | urlscan.io | [urlscan](https://urlscan.io) |
+| Threat Connect | [Threat Connect](https://www.threatconnect.com/) |
+| AlienVault OTX | [AlientVault OTX](https://www.alienvault.com/open-threat-exchange) |
+| IBM X-Force Exchange | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) |
+| Threat Crowd | [Threat Crowd](https://threatcrowd.org/) |
+| Virus Total | [Virus Total](https://www.virustotal.com/) |
+| Hybrid Analysis | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
 
 #### OSINT
 
