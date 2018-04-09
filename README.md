@@ -49,6 +49,8 @@
 | Virus Total | [Virus Total](https://www.virustotal.com/) |
 | Hybrid Analysis | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
 | Passive Total | [Passive Total](https://community.riskiq.com/) |
+| URL Void | [URL Void](http://www.urlvoid.com/) |
+| IP Void | [IP Void](http://www.ipvoid.com/) |
 
 #### OSINT
 
