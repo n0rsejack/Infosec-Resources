@@ -44,7 +44,8 @@
 | Threat Connect | [Threat Connect](https://www.threatconnect.com/) |
 | AlienVault OTX | [AlientVault OTX](https://www.alienvault.com/open-threat-exchange) |
 | IBM X-Force Exchange | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) |
-| Threat Crowd | [Threat Crowd](https://threatcrowd.org/) |
+| Threat Crowd | [Threat Crowd](https://threatcrowd.org/) | |
+| Threat Miner | [Threat Miner](https://www.threatminer.org/index.php)
 | Virus Total | [Virus Total](https://www.virustotal.com/) |
 | Hybrid Analysis | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
 | Passive Total | [Passive Total](https://community.riskiq.com/) |
