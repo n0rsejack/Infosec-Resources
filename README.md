@@ -68,8 +68,8 @@
 | Offensive Security's PWK & OSCP Review | [Offensive Security's PWK & OSCP Review](https://jhalon.github.io/OSCP-Review/) |
 | OSCP: Offensive Security Certification & PWK Review | [intrd-OSCP Review](http://dann.com.br/oscp-offensive-security-certification-pwk-course-review/) |
 | OSCP: Hakluke's Ultimate Guide | [Haklukes OSCP Guide](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97) |
-| OSCP: A Detailed Guide on OSCP Preparation | [JasonMax at Peerlyst OSCP Guide](https://www.peerlyst.com/posts/a-detailed-guide-on-oscp-preparation-jasonmax) | [How to Get the OSCP Wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst?trk=search_page_search_result) |
-| OSCP: Peerlyst Wiki Collection | [
+| OSCP: A Detailed Guide on OSCP Preparation | [JasonMax at Peerlyst OSCP Guide](https://www.peerlyst.com/posts/a-detailed-guide-on-oscp-preparation-jasonmax) | 
+| OSCP: Peerlyst Wiki Collection | [How to Get the OSCP Wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst?trk=search_page_search_result) |
 | awesomeinfosec | [awesomeinfosec](https://github.com/onlurking/awesome-infosec) |
 | Awesome-Hacking | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md) |
 | Bettercap Tutorial | [A Bettercap Tutorial](https://danielmiessler.com/study/bettercap/) |
