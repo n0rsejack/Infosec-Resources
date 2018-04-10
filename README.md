@@ -68,7 +68,8 @@
 | Offensive Security's PWK & OSCP Review | [Offensive Security's PWK & OSCP Review](https://jhalon.github.io/OSCP-Review/) |
 | OSCP: Offensive Security Certification & PWK Review | [intrd-OSCP Review](http://dann.com.br/oscp-offensive-security-certification-pwk-course-review/) |
 | OSCP: Hakluke's Ultimate Guide | [Haklukes OSCP Guide](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97) |
-| OSCP: A Detailed Guide on OSCP Preparation | [JasonMax at Peerlyst OSCP Guide](https://www.peerlyst.com/posts/a-detailed-guide-on-oscp-preparation-jasonmax) |
+| OSCP: A Detailed Guide on OSCP Preparation | [JasonMax at Peerlyst OSCP Guide](https://www.peerlyst.com/posts/a-detailed-guide-on-oscp-preparation-jasonmax) | [How to Get the OSCP Wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst?trk=search_page_search_result) |
+| OSCP: Peerlyst Wiki Collection | [
 | awesomeinfosec | [awesomeinfosec](https://github.com/onlurking/awesome-infosec) |
 | Awesome-Hacking | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md) |
 | Bettercap Tutorial | [A Bettercap Tutorial](https://danielmiessler.com/study/bettercap/) |
@@ -110,6 +111,8 @@
 | Linux Journey | [Linux Journey](https://linuxjourney.com) |
 | Threat Huning with HELK | [Threat Hunting & Adversary Emulation](https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/) |
 | BrakeSec BDIR | [BrakeSec BDIR](https://www.imfsecurity.com/podcasts/2018/2/28/bdir-podcast-episode-001) |
+| How to Build and Run SOC | [Peerlyst Claus Houmann SOC Info](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources?trk=search_page_search_result) |
+| The Peerlyst Wiki | [The Peerlyst Wiki](https://www.peerlyst.com/posts/resource-the-peerlyst-wiki-nicole-lamoureux?trk=search_page_search_result) |
 
 
 ### Names to follow
