@@ -116,6 +116,7 @@
 | How to Build and Run SOC | [Peerlyst Claus Houmann SOC Info](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources?trk=search_page_search_result) |
 | The Peerlyst Wiki | [The Peerlyst Wiki](https://www.peerlyst.com/posts/resource-the-peerlyst-wiki-nicole-lamoureux?trk=search_page_search_result) |
 | Information Security Reading List | [MalwareJedi InfoSec Reading List](https://github.com/MalwareJedi/infosec101-reading/blob/master/README.md) |
+| ROCK NSM | [ROCK NSM](http://rocknsm.io/) |
 
 
 ### Names to follow
