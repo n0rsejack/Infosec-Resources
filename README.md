@@ -117,6 +117,7 @@
 | The Peerlyst Wiki | [The Peerlyst Wiki](https://www.peerlyst.com/posts/resource-the-peerlyst-wiki-nicole-lamoureux?trk=search_page_search_result) |
 | Information Security Reading List | [MalwareJedi InfoSec Reading List](https://github.com/MalwareJedi/infosec101-reading/blob/master/README.md) |
 | ROCK NSM | [ROCK NSM](http://rocknsm.io/) |
+| Red Teaming Simulation Toolkit | [Red Teaming Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) |
 
 
 ### Names to follow
