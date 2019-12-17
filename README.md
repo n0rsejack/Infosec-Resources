@@ -53,6 +53,8 @@
 | Passive Total | [Passive Total](https://community.riskiq.com/) |
 | URL Void | [URL Void](http://www.urlvoid.com/) |
 | IP Void | [IP Void](http://www.ipvoid.com/) |
+| Zmap Project | [Zmap Project](https://zmap.io/) |
+| Zmap Project Research | [Zmap Project Research](https://zmap.io/research) |
 
 #### OSINT
 
