@@ -37,6 +37,7 @@
 | Name | Description |
 |---|---|
 | Penetration Testing Framework 0.59 | [Penetration Testing Framework](www.vulnerabilityassessment.co.uk/Penetration%20Test.html) |
+| The penetration testing execution standard | [PTES](http://www.pentest-standard.org/index.php/Main_Page) |
 
 #### Tools
 
