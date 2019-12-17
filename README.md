@@ -126,6 +126,11 @@
 | RMusser InfoSec Resources | [RMusser InfoSec Resources](https://rmusser.net/docs/Draft/Building%20A%20Pentest%20Lab.html) |
 | Awesome Incident Response | [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) |
 
+### Blue Team
+
+| Name | Description |
+|---|---|
+| Top 20 and 200 most scanned ports in the cybersecurity industry | [Top 20 and 200 most scanned ports](https://securitytrails.com/blog/top-scanned-ports) |
 
 ### Names to follow
 
