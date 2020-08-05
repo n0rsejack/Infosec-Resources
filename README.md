@@ -126,6 +126,7 @@
 | Awesome Cyber Security BlueTeam | [Awesome Cyber Security Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam) |
 | RMusser InfoSec Resources | [RMusser InfoSec Resources](https://rmusser.net/docs/Draft/Building%20A%20Pentest%20Lab.html) |
 | Awesome Incident Response | [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) |
+| Awesome Threat Detection and Hunting | [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) |
 
 ### Blue Team
 
