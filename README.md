@@ -130,6 +130,8 @@
 | RMusser InfoSec Resources | [RMusser InfoSec Resources](https://rmusser.net/docs/Draft/Building%20A%20Pentest%20Lab.html) |
 | Awesome Incident Response | [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) |
 | Awesome Threat Detection and Hunting | [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) |
+| Cyber Adversary Emulation | [Install Setup Mitre Caldera The Automated Cyber Adversary Emulation System](https://holdmybeersecurity.com/2018/01/13/install-setup-mitre-caldera-the-automated-cyber-adversary-emulation-system/) |
+| How I get started into Threat Hunting | [How I get started into Threat Hunting](https://medium.com/kminthein/how-i-get-started-into-threat-hunting-7d383db4bfd) |
 
 ### Blue Team
 
