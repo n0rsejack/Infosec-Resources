@@ -134,11 +134,16 @@
 | How I get started into Threat Hunting | [How I get started into Threat Hunting](https://medium.com/kminthein/how-i-get-started-into-threat-hunting-7d383db4bfd) |
 | Great List of Resources to Build an Enterprise Grade Home Lab | [List of Resources to Build Enterprise Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 
-### Blue Team
+### Blue Team Incident Response
 
 | Name | Description |
 |---|---|
 | Top 20 and 200 most scanned ports in the cybersecurity industry | [Top 20 and 200 most scanned ports](https://securitytrails.com/blog/top-scanned-ports) |
+| Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intel) |
+| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum) |
+| Kill Chain - (F2T2EA, 4F's, 5F's, Cyber Kill Chain, Mitre, and Unified Kill Chain) | [Kill Chains](https://en.m.wikipedia.org/wiki/Kill_chain) |
+| Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960) |
+
 
 ### Names to follow
 
