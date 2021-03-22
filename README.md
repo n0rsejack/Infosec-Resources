@@ -94,6 +94,7 @@
 | Tools and Resources to Prepare for a CTF | [InfoSec Institute](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref) |
 | Incident Response | [IncidentResponse](https://www.incidentresponse.com/) |
 | Blue Team Labs | [Blue Team Labs](https://blueteamlabs.online/login) |
+| Boss of the SOC | [BOTS Boss of the SOC](https://www.splunk.com/en_us/blog/security/bots-day-2020.html) |
 
 #### Additional Resources
 
