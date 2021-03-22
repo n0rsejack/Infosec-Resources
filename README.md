@@ -144,7 +144,7 @@
 | Kill Chain - (F2T2EA, 4F's, 5F's, Cyber Kill Chain, Mitre, and Unified Kill Chain) | [Kill Chains](https://en.m.wikipedia.org/wiki/Kill_chain) |
 | Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf) |
 | Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
-| 30 Best Blue Team Tools | [30 Best Blue Team Tools] (https://securitytrails.com/blog/blue-team-tools) |
+| 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
 
 
 ### Names to follow
