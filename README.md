@@ -143,6 +143,7 @@
 | Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology) |
 | Kill Chain - (F2T2EA, 4F's, 5F's, Cyber Kill Chain, Mitre, and Unified Kill Chain) | [Kill Chains](https://en.m.wikipedia.org/wiki/Kill_chain) |
 | Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf) |
+| Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
 
 
 ### Names to follow
