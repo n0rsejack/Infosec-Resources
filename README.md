@@ -95,6 +95,7 @@
 | Incident Response | [IncidentResponse](https://www.incidentresponse.com/) |
 | Blue Team Labs | [Blue Team Labs](https://blueteamlabs.online/login) |
 | Boss of the SOC | [BOTS Boss of the SOC](https://www.splunk.com/en_us/blog/security/bots-day-2020.html) |
+| Splunk Threat Hunting | [Splunk Threat Hunting](https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html?elqTrackId=9f3f8b4fc75f4506ac877748720ccc0f&elqaid=5067&elqat=2) |
 
 #### Additional Resources
 
