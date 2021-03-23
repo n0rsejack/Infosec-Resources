@@ -23,6 +23,7 @@
 | Awesome-CTF | [Awesome-CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) |
 | CTF Walkthroughs | [HighOn.Coffee CTF Walkthroughs](https://highon.coffee/blog/walkthroughs/) |
 | OpenSOC Write Up | [OpenSOC Write Up](https://infosecwriteups.com/defcon-28-opensoc-blue-team-ctf-lessons-and-tips-765718c12273) |
+| Blue Team Villiage OpenSOC Write Up | [Blue Team Villiage OpenSOC](https://blog.reconinfosec.com/the-infrastructure-ii/) |
 
 #### APT's
 
