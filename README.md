@@ -90,6 +90,8 @@
 | Awesome Malware Analysis | [rshipp](https://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) |
 | How to Build a Treat Hunting Platform using ELK Stack | [Threat Hunting ELK Stack](https://www.peerlyst.com/posts/how-to-build-a-threat-hunting-platform-using-elk-stack-chiheb-chebbi) |
 | Network Security Monitoring | [CNIT50: Network Security Monitoring](https://samsclass.info/50/50_F17.shtml) |
+| Incident Response | [CNIT 152: Incident Response](https://samsclass.info/152/152_F19.shtml) |
+| Practical Malware Analysis | [CNIT 126: Practical Malware Analysis](https://samsclass.info/126/126_S21.shtml) |
 | Samsclass | [Samsclass](https://samsclass.info/) |
 | The Easiest Metasploit Guide You'll Ever Read | [Metasploit Guide](https://www.exploit-db.com/docs/english/44040-the-easiest-metasploit-guide-you’ll-ever-read.pdf) |
 | Malware Analysis | [RPISEC Malware Analysis](https://github.com/RPISEC/Malware/blob/master/README.md) |
