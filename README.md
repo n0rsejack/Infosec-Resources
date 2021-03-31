@@ -188,7 +188,6 @@
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | GreyNoise | [@GreyNoiseIO](https://twitter.com/GreyNoiseIO) |
 | Heath Adams | [@thecybermentor](https://twitter.com/thecybermentor) |
-| Securitymapper | [@SecurityMapper](https://twitter.com/SecurityMapper) |
 | IO Link | [@IOLink](https://twitter.com/IOLink) |
 | Ismael Valenzuela | [@aboutsecurity](https://twitter.com/aboutsecurity) |
 | Jake Williams | [@MalwareJake](https://twitter.com/MalwareJake) |
@@ -227,6 +226,7 @@
 | SANS ISC | [@sans_isc](https://twitter.com/sans_isc) |
 | SANS Institute | [@SANSInstitute](https://twitter.com/SANSInstitute) |
 | SANS Offensive Operations | [@SANSOffensive](https://twitter.com/SANSOffensive) |
+| Securitymapper | [@SecurityMapper](https://twitter.com/SecurityMapper) |
 | SecurityTrails | [@securitytrails](https://twitter.com/securitytrails) |
 | strandjs | [@strandjs](https://twitter.com/strandjs) |
 | Tim Medin | [@TimMedin](https://twitter.com/TimMedin) |
