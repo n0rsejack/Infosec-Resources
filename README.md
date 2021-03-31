@@ -168,7 +168,7 @@
 | Andrew Kalat | [@Lerg](https://twitter.com/Lerg) |
 | ATT&CK | [@MITREattack](https://twitter.com/MITREattack) |
 | Black Hills Information Security | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) |
-| BleepingComputer | [@BleepinComputer](hhttps://twitter.com/BleepinComputer) |
+| BleepingComputer | [@BleepinComputer](https://twitter.com/BleepinComputer) |
 | Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
