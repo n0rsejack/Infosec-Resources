@@ -188,7 +188,7 @@
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | GreyNoise | [@GreyNoiseIO](https://twitter.com/GreyNoiseIO) |
 | Heath Adams | [@thecybermentor](https://twitter.com/thecybermentor) |
-| H & A Security Solutions | Securitymapper | [@SecurityMapper](https://twitter.com/SecurityMapper) |
+| Securitymapper | [@SecurityMapper](https://twitter.com/SecurityMapper) |
 | IO Link | [@IOLink](https://twitter.com/IOLink) |
 | Ismael Valenzuela | [@aboutsecurity](https://twitter.com/aboutsecurity) |
 | Jake Williams | [@MalwareJake](https://twitter.com/MalwareJake) |
