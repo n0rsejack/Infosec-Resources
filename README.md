@@ -165,8 +165,20 @@
 
 | Name | Description |
 |---|---|
+| Andrew Kalat | [@Lerg](https://twitter.com/Lerg) |
+| ATT&CK | [@MITREattack](https://twitter.com/MITREattack) |
+| Black Hills Information Security | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) |
+| BleepingComputer | [@BleepinComputer](hhttps://twitter.com/BleepinComputer) |
+| Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
+| Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
+| GreyNoise | [@GreyNoiseIO](https://twitter.com/GreyNoiseIO) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
+| Metacurity | [@Metacurity](https://twitter.com/Metacurity) |
+| RedTeamVillage | [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) |
+| SANS CyberDefense | [@SANSDefense](https://twitter.com/SANSDefense) |
+| Tinker | [@TinkerSec](https://twitter.com/tinkersec) |
+
 
 
 ### Podcasts
