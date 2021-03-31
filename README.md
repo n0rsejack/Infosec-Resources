@@ -168,41 +168,76 @@
 | Andrew Kalat | [@Lerg](https://twitter.com/Lerg) |
 | ATT&CK | [@MITREattack](https://twitter.com/MITREattack) |
 | Bad Packets | [@bad_packets](https://twitter.com/bad_packets) |
+| BenHeise | [@benheise](https://twitter.com/benheise) |
 | Black Hills Information Security | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) |
 | BleepingComputer | [@BleepinComputer](https://twitter.com/BleepinComputer) |
-| Cisco Talos Intelligence Group | [@TalosSecurity](https://twitter.com/TalosSecurity) |
 | Brett Shavers | [@Brett_Shavers](https://twitter.com/Brett_Shavers) |
+| briankrebs | [@briankrebs](https://twitter.com/briankrebs) |
+| Bryan Brake | [@bryanbrake](https://twitter.com/bryanbrake) |
+| Christopher Hadnagy | [@humanhacker](https://twitter.com/humanhacker) |
+| Cisco Talos Intelligence Group | [@TalosSecurity](https://twitter.com/TalosSecurity) |
 | Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
+| Chris Crowley | [@CCrowMontance](https://twitter.com/CCrowMontance) |
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
+| Cybersecurity Canon | [@CyberSecCanon](https://twitter.com/CyberSecCanon) |
 | DarkReading | [@DarkReading](https://twitter.com/DarkReading) |
+| DEF CON | [@defcon](https://twitter.com/defcon) |
+| DFRLab | [@DFRLab](https://twitter.com/DFRLab) |
 | Dutch Osint Guy Nico | [@dutch_osintguy](https://twitter.com/dutch_osintguy) |
+| Eric Capuano | [@eric_capuano](https://twitter.com/eric_capuano) |
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | GreyNoise | [@GreyNoiseIO](https://twitter.com/GreyNoiseIO) |
+| Heath Adams | [@thecybermentor](https://twitter.com/thecybermentor) |
+| H & A Security Solutions | Securitymapper | [@SecurityMapper](https://twitter.com/SecurityMapper) |
 | IO Link | [@IOLink](https://twitter.com/IOLink) |
 | Ismael Valenzuela | [@aboutsecurity](https://twitter.com/aboutsecurity) |
 | Jake Williams | [@MalwareJake](https://twitter.com/MalwareJake) |
+| James Lyne | [@jameslyne](https://twitter.com/jameslyne) |
+| Jason Blanchard | [@BanjoCrashland](https://twitter.com/BanjoCrashland) |
+| Johannes Ullrich | [@johullrich](https://twitter.com/johullrich) |
+| John Hubbard | [@SecHubb](https://twitter.com/SecHubb) |
+| Josh Brower | [@DefensiveDepth](https://twitter.com/DefensiveDepth) |
 | Justin Seitz | [@xKaliSec](https://twitter.com/jms_dot_py) |
 | KaliTut | [@jms_dot_py](https://twitter.com/xKaliSec) |
 | kirbstr | [@kirbstr](https://twitter.com/kirbstr) |
 | KitPloit - Hacker Tools | [@KitPloit](https://twitter.com/KitPloit) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
 | Lesley Carhart | [@hacks4pancakes](https://twitter.com/hacks4pancakes) |
+| Maliciouslink | [@Maliciouslink](https://twitter.com/Maliciouslink) |
+| MalwareTech | [@MalwareTechBlog](https://twitter.com/MalwareTechBlog) |
+| malware traffic analysis | [@malware_traffic](https://twitter.com/malware_traffic) |
 | Matt Bromiley | [@_bromiley](https://twitter.com/_bromiley) |
 | Metacurity | [@Metacurity](https://twitter.com/Metacurity) |
+| Microsoft Security | [@msftsecurity](https://twitter.com/msftsecurity) |
+| Microsoft Security Intelligence | [@MsftSecIntel](https://twitter.com/MsftSecIntel) |
 | NETRESEC | [@netresec](https://twitter.com/netresec) |
 | nixintel | [@nixintel](https://twitter.com/nixintel) |
 | Offensive Security | [@offsectraining](https://twitter.com/offsectraining) |
 | Omar Ωr Santos | [@santosomar](https://twitter.com/santosomar) |
+| Phil Hagen | [@santosomar](https://twitter.com/santosomar) |
+| Phill Moore | [@PhilHagen](https://twitter.com/PhilHagen) |
+| Rachel Tobac | [@RachelTobac](https://twitter.com/RachelTobac) |
 | RedHunt Labs | [@RedHuntLabs](https://twitter.com/RedHuntLabs) |
 | RedTeamVillage | [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) |
+| ReversingLabs | [@ReversingLabs](https://twitter.com/ReversingLabs) |
+| Rob Fuller | [@mubix](https://twitter.com/mubix) |
+| Ryan "Chaps" Chapman | [@rj_chap](https://twitter.com/rj_chap) |
 | SANS CyberDefense | [@SANSDefense](https://twitter.com/SANSDefense) |
 | SANS SANS DFIR | [@sansforensics](https://twitter.com/sansforensics) |
+| SANS ISC | [@sans_isc](https://twitter.com/sans_isc) |
 | SANS Institute | [@SANSInstitute](https://twitter.com/SANSInstitute) |
 | SANS Offensive Operations | [@SANSOffensive](https://twitter.com/SANSOffensive) |
+| SecurityTrails | [@securitytrails](https://twitter.com/securitytrails) |
+| strandjs | [@strandjs](https://twitter.com/strandjs) |
 | Tim Medin | [@TimMedin](https://twitter.com/TimMedin) |
 | Tinker | [@TinkerSec](https://twitter.com/tinkersec) |
 | The CyberWire | [@thecyberwire](https://twitter.com/thecyberwire) |
+| Threatpost | [@threatpost](https://twitter.com/threatpost) |
+| Troy Hunt | [@troyhunt](https://twitter.com/troyhunt) |
+| US-CERT | [@USCERT_gov](https://twitter.com/USCERT_gov) |
 | We Are OSINTCurious | [@OsintCurious](https://twitter.com/OsintCurious) |
+| Whitney Champion | [@shortxstack](https://twitter.com/shortxstack) |
+| Wild West Hackin' Fest | [@WWHackinFest](https://twitter.com/WWHackinFest) |
 
 
 ### Podcasts
