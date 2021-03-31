@@ -179,6 +179,7 @@
 | Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
 | Chris Crowley | [@CCrowMontance](https://twitter.com/CCrowMontance) |
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
+| Cybersecurity and Infrastructure Security Agency | [@CISAgov](https://twitter.com/CISAgov) |
 | Cybersecurity Canon | [@CyberSecCanon](https://twitter.com/CyberSecCanon) |
 | DarkReading | [@DarkReading](https://twitter.com/DarkReading) |
 | DEF CON | [@defcon](https://twitter.com/defcon) |
