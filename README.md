@@ -99,6 +99,9 @@
 | Malware Analysis | [RPISEC Malware Analysis](https://github.com/RPISEC/Malware/blob/master/README.md) |
 | Awesome Hacking Resources | [Vitalysim Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/README.md) |
 | Tools and Resources to Prepare for a CTF | [InfoSec Institute](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref) |
+| Awesome Security | [Awesome Security](https://github.com/sbilly/awesome-security) |
+| Awesome CTF | [Awesome CTF](https://github.com/apsdehal/awesome-ctf) |
+| Awesome Incident Response | [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) |
 | Incident Response | [IncidentResponse](https://www.incidentresponse.com/) |
 | Blue Team Labs | [Blue Team Labs](https://blueteamlabs.online/login) |
 | Boss of the SOC | [BOTS Boss of the SOC](https://www.splunk.com/en_us/blog/security/bots-day-2020.html) |
