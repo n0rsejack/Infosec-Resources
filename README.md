@@ -13,6 +13,7 @@
 #### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#additional-resources-1)
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
 #### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
+#### [Podcasts](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#podcasts-1)
 
 ### Resources
 
