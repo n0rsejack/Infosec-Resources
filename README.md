@@ -167,18 +167,42 @@
 |---|---|
 | Andrew Kalat | [@Lerg](https://twitter.com/Lerg) |
 | ATT&CK | [@MITREattack](https://twitter.com/MITREattack) |
+| Bad Packets | [@bad_packets](https://twitter.com/bad_packets) |
 | Black Hills Information Security | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) |
 | BleepingComputer | [@BleepinComputer](https://twitter.com/BleepinComputer) |
+| Cisco Talos Intelligence Group | [@TalosSecurity](https://twitter.com/TalosSecurity) |
+| Brett Shavers | [@Brett_Shavers](https://twitter.com/Brett_Shavers) |
 | Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
+| DarkReading | [@DarkReading](https://twitter.com/DarkReading) |
+| Dutch Osint Guy Nico | [@dutch_osintguy](https://twitter.com/dutch_osintguy) |
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | GreyNoise | [@GreyNoiseIO](https://twitter.com/GreyNoiseIO) |
+| IO Link | [@IOLink](https://twitter.com/IOLink) |
+| Ismael Valenzuela | [@aboutsecurity](https://twitter.com/aboutsecurity) |
+| Jake Williams | [@MalwareJake](https://twitter.com/MalwareJake) |
+| Justin Seitz | [@xKaliSec](https://twitter.com/jms_dot_py) |
+| KaliTut | [@jms_dot_py](https://twitter.com/xKaliSec) |
+| kirbstr | [@kirbstr](https://twitter.com/kirbstr) |
+| KitPloit - Hacker Tools | [@KitPloit](https://twitter.com/KitPloit) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
+| Lesley Carhart | [@hacks4pancakes](https://twitter.com/hacks4pancakes) |
+| Matt Bromiley | [@_bromiley](https://twitter.com/_bromiley) |
 | Metacurity | [@Metacurity](https://twitter.com/Metacurity) |
+| NETRESEC | [@netresec](https://twitter.com/netresec) |
+| nixintel | [@nixintel](https://twitter.com/nixintel) |
+| Offensive Security | [@offsectraining](https://twitter.com/offsectraining) |
+| Omar Ωr Santos | [@santosomar](https://twitter.com/santosomar) |
+| RedHunt Labs | [@RedHuntLabs](https://twitter.com/RedHuntLabs) |
 | RedTeamVillage | [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) |
 | SANS CyberDefense | [@SANSDefense](https://twitter.com/SANSDefense) |
+| SANS SANS DFIR | [@sansforensics](https://twitter.com/sansforensics) |
+| SANS Institute | [@SANSInstitute](https://twitter.com/SANSInstitute) |
+| SANS Offensive Operations | [@SANSOffensive](https://twitter.com/SANSOffensive) |
+| Tim Medin | [@TimMedin](https://twitter.com/TimMedin) |
 | Tinker | [@TinkerSec](https://twitter.com/tinkersec) |
-
+| The CyberWire | [@thecyberwire](https://twitter.com/thecyberwire) |
+| We Are OSINTCurious | [@OsintCurious](https://twitter.com/OsintCurious) |
 
 
 ### Podcasts
