@@ -144,6 +144,7 @@
 | How I get started into Threat Hunting | [How I get started into Threat Hunting](https://medium.com/kminthein/how-i-get-started-into-threat-hunting-7d383db4bfd) |
 | Great List of Resources to Build an Enterprise Grade Home Lab | [List of Resources to Build Enterprise Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 
+
 ### Blue Team Incident Response
 
 | Name | Description |
@@ -165,5 +166,12 @@
 |---|---|
 | Florian Roth | [@Cyb3rops](https://twitter.com/cyb3rops) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
+
+
+### Podcasts
+
+| Name | Description |
+|---|---|
+| Blueprint Podcast by John Hubbard | [Blueprint Podcast](https://www.sans.org/blueprint_podcast/) |
 
 ### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
