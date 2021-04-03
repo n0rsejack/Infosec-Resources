@@ -163,6 +163,37 @@
 | 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
 
 
+### Warfare Studies
+| Name | Description |
+|---|---|
+| Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
+| AFDD 1-2 | Air Force Glossary, 11 January 2007, with Change 1, 6 January 2012 |
+| AFDD 1-04 | Legal Support to Operations, 04 March 2012 |
+| AFDD 2 | Global Integrated Intelligence, Surveillance, & Reconnaissance Operations, 6 January 2012 |
+| AFDD 3-01 | Counterair Operations, 1 October 2008, interim change 2, 1 November 2011 |
+| AFDD 3-2 | Irregular Warfare, 15 March 2013 |
+| AFDD 3-03 | Counterland Operations, 11 September 2006, incorporating Change 1, 28 July 2011 |
+| AFDD 3-04 | Countersea Operations, 15 September 2005, incorporating Change 1, 26 October 2010 |
+| AFDD 3-05 | Special Operations, 16 December 2005, incorporating Change 2, 28 July 2011 |
+| AFDD 3-10 | Force Protection, 28 July 2011 |
+| AFDD 3-12 | Cyberspace Operations, 15 July 2010, incorporating Change 1, 30 November 2011 |
+| AFDD 3-13 | Information Operations, 11 January 2005, incorporating Change 1, 28 July 2011 |
+| AFDD 3-13.1 | Electronic Warfare, 5 November 2001, incorporating Change 1, 28 July 2011 |
+| AFDD 3-14 | Space Operations, 27 November 2006, incorporating Change 1, 28 July 2011 |
+| AFDD 3-17 | Air Mobility Operations, 1 March 2006, incorporating Change 1, 28 July 2011 |
+| AFDD 3-22 | Foreign Internal Defense, 15 September 2007, interim change 2, 1 November 2011 |
+| AFDD 3-27 | Homeland Operations, 23 April 2013 |
+| AFDD 3-40 | Counter-Chemical, Biological, Radiological and Nuclear Operations, 26 January 2007, interim Change 2, 1 November 2011 |
+| AFDD 3-50 | Personnel Recovery Operations, 1 June 2005, interim Change 2, 1 November 2011 |
+| AFDD 3-59 | Weather Operations, 3 May 2006, incorporating Change 1, 28 July 2011 |
+| AFDD 3-60 | Targeting, 8 June 2006, incorporating Change 1, 28 July 2011 |
+| AFDD 3-61, Public Affairs Operations | 24 June 2005, incorporating Change 1, 23 December 2010 |
+| AFDD 3-70 | Strategic Attack, 12 June 2007, interim Change 2, 1 November 2011 |
+| AFDD 3-72, Nuclear Operations | 7 May 2009, incorporating Change 2, 14 December 2011 |
+| AFDD 4-0 | Combat Support, 23 March 2005, incorporating Change 2, 28 July 2011 |
+| AFDD 6-0 | Command and Control, 1 June 2007, incorporating Change 1, 28 July 2011 |
+
+
 ### Names to follow
 
 #### Twitter
