@@ -164,9 +164,8 @@
 
 
 ### Warfare Studies
-| Name | Description |
-|---|---|
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
+|---|---|
 | AFPD 1-2 Air Force Glossary | [Air Glossary](https://www.doctrine.af.mil/Portals/61/documents/AFDP_Air-Force-Glossary/AF-GLOSSARY.pdf) |
 | DOD Dictionary of Military Associated Terms | [DOD Dictionary or Terms](https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf) |
 | AFPD 1-04 | Legal Support to Operations, 04 March 2012 |
