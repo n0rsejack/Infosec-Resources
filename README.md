@@ -167,7 +167,8 @@
 | Name | Description |
 |---|---|
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
-| AFPD 1-2 Air Force Glossary, 11 January 2007, with Change 1, 6 January 2012 |
+| AFPD 1-2 Air Force Glossary | [Air Glossary](https://www.doctrine.af.mil/Portals/61/documents/AFDP_Air-Force-Glossary/AF-GLOSSARY.pdf) |
+| DOD Dictionary of Military Associated Terms | [DOD Dictionary or Terms](https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf) |
 | AFPD 1-04 | Legal Support to Operations, 04 March 2012 |
 | AFDP 2-0 Global Integrated Intelligence, Surveillance, & Reconnaissance Operations | [Global Integrated ISR Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_2-0/2-0-Annex-GLOBAL-INTEGRATED-ISR.pdf) |
 | AFDP 3-0 Operations and Planning | [Operations and Planning](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-0/3-0-AFDP-OPERATIONS-PLANNING.pdf) |
@@ -180,7 +181,7 @@
 | AFPD 3-12 Cyberspace Operations | [Cyberspace Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-12/3-12-Annex-CYBERSPACE-OPS.pdf) |
 | AFPD 3-13 Information Operations | [Information Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-13/3-13-AFDP-INFO-OPS.pdf) |
 | AFDD 3-13.1 | Electronic Warfare, 5 November 2001, incorporating Change 1, 28 July 2011 |
-| AFPD 3-14 |ounterspace Operations | [Counterspace Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-14/AFDP-3-14-Counterspace-Ops.pdf) |
+| AFPD 3-14 Counterspace Operations | [Counterspace Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-14/AFDP-3-14-Counterspace-Ops.pdf) |
 | AFDD 3-17 | Air Mobility Operations, 1 March 2006, incorporating Change 1, 28 July 2011 |
 | AFPD 3-22 Foreign Internal Defense | [Foreign Internal Defense](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-22/3-22-AFDP-FID.pdf) |
 | AFPD 3-27 Homeland Operations | [Homeland Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-27/3-27-AFDP-Homeland-Ops.pdf) |
