@@ -168,6 +168,7 @@
 |---|---|
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
 | AFDP Air Force Glossary | [Air Force Glossary](https://www.doctrine.af.mil/Portals/61/documents/AFDP_Air-Force-Glossary/AF-GLOSSARY.pdf) |
+| DOD Dictionary of Military and Associated Terms | [DOD Dictionary](https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf) |
 | AFDD 1-04 | Legal Support to Operations, 04 March 2012 |
 | AFDD 2 | Global Integrated Intelligence, Surveillance, & Reconnaissance Operations, 6 January 2012 |
 | AFDD 3-01 | Counterair Operations, 1 October 2008, interim change 2, 1 November 2011 |
