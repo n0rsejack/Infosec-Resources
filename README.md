@@ -166,6 +166,8 @@
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
 |---|---|
+| Air Basic Doctrine Vol. 1 | [Air Force Basic Doctrine Vol. 1](https://www.doctrine.af.mil/Portals/61/documents/Volume_1/Volume-1-Basic-Doctrine.pdf) |
+| Air Force Leadership Vol. 2 | [Air Force Leadership Vol. 2](https://www.doctrine.af.mil/Portals/61/documents/Volume_2/Volume-2-Leadership.pdf) |
 | AFPD 1-2 Air Force Glossary | [Air Glossary](https://www.doctrine.af.mil/Portals/61/documents/AFDP_Air-Force-Glossary/AF-GLOSSARY.pdf) |
 | DOD Dictionary of Military Associated Terms | [DOD Dictionary or Terms](https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf) |
 | AFPD 1-04 | Legal Support to Operations, 04 March 2012 |
@@ -191,6 +193,8 @@
 | AFPD 3-61 Public Affairs Operations | [Public Affairs](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-61/3-61-AFDP-PUBLIC-AFFAIRS.pdf) |
 | AFPD 3-70 Strategic Attack | [Strategic Attack](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-70/3-70-AFDP-STRATEGIC-ATTACK.pdf) |
 | AFPD 4-0 Combat Support | [Combat Support](https://www.doctrine.af.mil/Portals/61/documents/AFDP_4-0/4-0-AFDP-COMBAT-SUPPORT.pdf) |
+| FAS Intelligence Resource Program | [Air Force Doctrine Documents](https://fas.org/irp/doddir/usaf/index.html) |
+| U.S. Air Force Doctrine Site | [U.S. Air Force Doctrine](https://www.doctrine.af.mil/) |
 
 
 ### Names to follow
