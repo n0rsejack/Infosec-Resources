@@ -167,32 +167,30 @@
 | Name | Description |
 |---|---|
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
-| AFDP Air Force Glossary | [Air Force Glossary](https://www.doctrine.af.mil/Portals/61/documents/AFDP_Air-Force-Glossary/AF-GLOSSARY.pdf) |
-| DOD Dictionary of Military and Associated Terms | [DOD Dictionary](https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf) |
-| AFDD 1-04 | Legal Support to Operations, 04 March 2012 |
-| AFDD 2 | Global Integrated Intelligence, Surveillance, & Reconnaissance Operations, 6 January 2012 |
-| AFDD 3-01 | Counterair Operations, 1 October 2008, interim change 2, 1 November 2011 |
-| AFDD 3-2 | Irregular Warfare, 15 March 2013 |
-| AFDD 3-03 | Counterland Operations, 11 September 2006, incorporating Change 1, 28 July 2011 |
-| AFDD 3-04 | Countersea Operations, 15 September 2005, incorporating Change 1, 26 October 2010 |
-| AFDD 3-05 | Special Operations, 16 December 2005, incorporating Change 2, 28 July 2011 |
-| AFDD 3-10 | Force Protection, 28 July 2011 |
-| AFDD 3-12 | Cyberspace Operations, 15 July 2010, incorporating Change 1, 30 November 2011 |
-| AFDD 3-13 | Information Operations, 11 January 2005, incorporating Change 1, 28 July 2011 |
+| AFPD 1-2 | Air Force Glossary, 11 January 2007, with Change 1, 6 January 2012 |
+| AFPD 1-04 | Legal Support to Operations, 04 March 2012 |
+| AFDP 2-0 | Global Integrated Intelligence, Surveillance, & Reconnaissance Operations | [Global Integrated ISR Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_2-0/2-0-Annex-GLOBAL-INTEGRATED-ISR.pdf) |
+| AFDP 3-0 | Operations and Planning | [Operations and Planning](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-0/3-0-AFDP-OPERATIONS-PLANNING.pdf) |
+| AFPD 3-01 | Counterair Ops | [Counterair Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-01/3-01-AFDP-COUNTERAIR.pdf) |
+| AFPD 3-2 | Irregular Warfare | [Irregular Warfare](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-2/3-2-AFDP-IRREGULAR-WARFARE.pdf) |
+| AFPD 3-03 | Counterland Operations | [Counterland Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-03/3-03-AFDP-COUNTERLAND.pdf) |
+| AFPD 3-04 | Countersea Operations | [Countersea Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-04/3-04-AFDP-Countersea-Ops.pdf) |
+| AFPD 3-05 | Special Operations | [Special Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-05/3-05-AFDP-SPECIAL-OPERATIONS.pdf) |
+| AFPD 3-10 | Force Protection | [Force Protection](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-10/3-10-AFDP-Force-Protection.pdf) |
+| AFPD 3-12 | Cyberspace Operations | [Cyberspace Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-12/3-12-Annex-CYBERSPACE-OPS.pdf) |
+| AFPD 3-13 | Information Operations | [Information Operations](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-13/3-13-AFDP-INFO-OPS.pdf) |
 | AFDD 3-13.1 | Electronic Warfare, 5 November 2001, incorporating Change 1, 28 July 2011 |
-| AFDD 3-14 | Space Operations, 27 November 2006, incorporating Change 1, 28 July 2011 |
+| AFPD 3-14 | Counterspace Operations | [Counterspace Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-14/AFDP-3-14-Counterspace-Ops.pdf) |
 | AFDD 3-17 | Air Mobility Operations, 1 March 2006, incorporating Change 1, 28 July 2011 |
-| AFDD 3-22 | Foreign Internal Defense, 15 September 2007, interim change 2, 1 November 2011 |
-| AFDD 3-27 | Homeland Operations, 23 April 2013 |
-| AFDD 3-40 | Counter-Chemical, Biological, Radiological and Nuclear Operations, 26 January 2007, interim Change 2, 1 November 2011 |
-| AFDD 3-50 | Personnel Recovery Operations, 1 June 2005, interim Change 2, 1 November 2011 |
-| AFDD 3-59 | Weather Operations, 3 May 2006, incorporating Change 1, 28 July 2011 |
-| AFDD 3-60 | Targeting, 8 June 2006, incorporating Change 1, 28 July 2011 |
-| AFDD 3-61, Public Affairs Operations | 24 June 2005, incorporating Change 1, 23 December 2010 |
-| AFDD 3-70 | Strategic Attack, 12 June 2007, interim Change 2, 1 November 2011 |
-| AFDD 3-72, Nuclear Operations | 7 May 2009, incorporating Change 2, 14 December 2011 |
-| AFDD 4-0 | Combat Support, 23 March 2005, incorporating Change 2, 28 July 2011 |
-| AFDD 6-0 | Command and Control, 1 June 2007, incorporating Change 1, 28 July 2011 |
+| AFPD 3-22 | Foreign Internal Defense | [Foreign Internal Defense](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-22/3-22-AFDP-FID.pdf) |
+| AFPD 3-27 | Homeland Operations | [Homeland Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-27/3-27-AFDP-Homeland-Ops.pdf) |
+| AFPD 3-30 | Command and Control | [Command and Control](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-30/AFDP%203-30-Command-and-Control.pdf) |
+| AFPD 3-50 | Personnel Recovery Operations | [Personnel Recovery](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-50/3-50-AFDP-Personnel-Recovery.pdf) |
+| AFPD 3-59 | Weather Operations | [Weather Ops](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-59/3-59-AFDP-WEATHER-OPS.pdf) |
+| AFPD 3-60 | Targeting | [Targeting](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-60/3-60-AFDP-TARGETING.pdf) |
+| AFPD 3-61 | Public Affairs Operations | [Public Affairs](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-61/3-61-AFDP-PUBLIC-AFFAIRS.pdf) |
+| AFPD 3-70 | Strategic Attack | [Strategic Attack](https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-70/3-70-AFDP-STRATEGIC-ATTACK.pdf) |
+| AFPD 4-0 | Combat Support | [Combat Support](https://www.doctrine.af.mil/Portals/61/documents/AFDP_4-0/4-0-AFDP-COMBAT-SUPPORT.pdf) |
 
 
 ### Names to follow
