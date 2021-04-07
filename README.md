@@ -149,7 +149,7 @@
 | How I get started into Threat Hunting | [How I get started into Threat Hunting](https://medium.com/kminthein/how-i-get-started-into-threat-hunting-7d383db4bfd) |
 | Great List of Resources to Build an Enterprise Grade Home Lab | [List of Resources to Build Enterprise Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 | Windows Privilege Escalation Fundamentals | [Window Privesc & Good IR Scripts](http://www.fuzzysecurity.com/tutorials/16.html) |
-| Basics of Windows Incident Response by Jordan Potti | [Basiss of Windows IR](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/) |
+| Basics of Windows Incident Response by Jordan Potti | [Basics of Windows IR](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/) |
 
 
 ### Blue Team Incident Response
