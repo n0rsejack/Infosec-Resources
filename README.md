@@ -150,7 +150,7 @@
 | Great List of Resources to Build an Enterprise Grade Home Lab | [List of Resources to Build Enterprise Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 | Windows Privilege Escalation Fundamentals | [Window Privesc & Good IR Scripts](http://www.fuzzysecurity.com/tutorials/16.html) |
 | Basics of Windows Incident Response by Jordan Potti | [Basics of Windows IR](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/) |
-
+| IR Tales From Hold My Beer Security | [IR Tales](https://holdmybeersecurity.com/category/system-administration/) |
 
 ### Blue Team Incident Response
 
