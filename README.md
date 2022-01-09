@@ -4,6 +4,7 @@
 ## Table of Contents
 
 #### Resources
+#### [CTF Walk Throughs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
 #### [CTFs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
 #### [APTs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#apts-1)
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
@@ -16,6 +17,8 @@
 #### [Podcasts](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#podcasts-1)
 
 ### Resources
+
+#### CTF Walk Throughs
 
 #### CTF's
 
