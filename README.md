@@ -45,9 +45,9 @@
 | Threat Hunter Playbook | [Cyb3rWard0g Threat Hunter Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) |
 | APT Threat Tracking | [APT Threat Tracking](http://apt.threattracking.com) |
 
-#### Red Team
+### Red Team
 
-### Pen Testing Frameworks
+#### Pen Testing Frameworks
 
 | Name | Description |
 |---|---|
@@ -57,9 +57,9 @@
 | NIST Guideline on Network Security Testing | [NIST SP800-115](http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf) |
 | OWASP Testing Guide | [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project) |
 
-#### Blue Team
+### Blue Team
 
-### Blue Team Tools
+#### Blue Team Tools
 
 | Name | Description |
 |---|---|
@@ -79,7 +79,7 @@
 | SIEMonster | [SIEMonster](https://siemonster.com/download-community-edition/) |
 | Keeping Infrastructure as Code Secure-KICS | [KICS](https://docs.kics.io/) |
 
-### Incident Response
+#### Incident Response
 
 | Name | Description |
 |---|---|
