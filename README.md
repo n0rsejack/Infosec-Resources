@@ -11,6 +11,7 @@
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
 #### [Blue Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-1)
 #### [Blue Team Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-tools-1)
+#### [Incident Response](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#incident-response-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
 #### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#additional-resources-1)
@@ -77,6 +78,18 @@
 | Zmap Project Research | [Zmap Project Research](https://zmap.io/research) |
 | SIEMonster | [SIEMonster](https://siemonster.com/download-community-edition/) |
 | Keeping Infrastructure as Code Secure-KICS | [KICS](https://docs.kics.io/) |
+
+### Incident Response
+
+| Name | Description |
+|---|---|
+| Top 20 and 200 most scanned ports in the cybersecurity industry | [Top 20 and 200 most scanned ports](https://securitytrails.com/blog/top-scanned-ports) |
+| Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead) |
+| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology) |
+| Kill Chain - (F2T2EA, 4F's, 5F's, Cyber Kill Chain, Mitre, and Unified Kill Chain) | [Kill Chains](https://en.m.wikipedia.org/wiki/Kill_chain) |
+| Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf) |
+| Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
+| 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
 
 #### OSINT
 
