@@ -7,7 +7,9 @@
 #### [CTF Walk Throughs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctf-walk-throughs-1)
 #### [CTFs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#ctfs-1)
 #### [APTs](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#apts-1)
+#### [Red Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#red-team-1)
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
+#### [Blue Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-1)
 #### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
@@ -42,6 +44,8 @@
 | Threat Hunter Playbook | [Cyb3rWard0g Threat Hunter Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) |
 | APT Threat Tracking | [APT Threat Tracking](http://apt.threattracking.com) |
 
+#### Red Team
+
 #### Pen Testing Frameworks
 
 | Name | Description |
@@ -51,6 +55,8 @@
 | Open Source Security Testing Methodology Manual (OSSTMM) | [OSSTMM](https://www.isecom.org/research.html) |
 | NIST Guideline on Network Security Testing | [NIST SP800-115](http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf) |
 | OWASP Testing Guide | [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project) |
+
+#### Blue Team
 
 #### Tools
 
