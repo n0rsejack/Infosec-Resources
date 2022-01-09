@@ -36,6 +36,7 @@
 |---|---|
 | Awesome-CTF | [Awesome-CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) |
 | Hack the Box | [HTB] |
+| Hack the Box Academy | [Hack the Box Academy] |
 | Web Security Academy | [Web Security Academy] |
 | OWASP Juice Shop | [OWASP Juice Shop] |
 | Pentester Lab | [Pentester Lab] |
