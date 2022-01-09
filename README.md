@@ -134,6 +134,9 @@
 | Splunk Threat Hunting | [Splunk Threat Hunting](https://www.splunk.com/en_us/blog/security/hunting-with-splunk-the-basics.html?elqTrackId=9f3f8b4fc75f4506ac877748720ccc0f&elqaid=5067&elqat=2) |
 | OpenSOC | [OpenSOC](https://opensoc.io/) |
 | How to install Elastic SIEM and Elastic EDR | [Install Elastic SIEM and Elastic EDR](https://newtonpaul.com/how-to-install-elastic-siem-and-elastic-edr/) |
+| LetsDefend Blue Team Training | [LetsDefend Blue Team Training](https://letsdefend.io/) |
+| Blue Team Labs Online | [Blue Team Labs Online](https://blueteamlabs.online/) |
+| TCM Security Training | [TCM Security Training](https://academy.tcm-sec.com/) |
 
 ### Additional Resources
 
