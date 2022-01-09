@@ -258,6 +258,7 @@
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
 | Cybersecurity and Infrastructure Security Agency | [@CISAgov](https://twitter.com/CISAgov) |
 | Cybersecurity Canon | [@CyberSecCanon](https://twitter.com/CyberSecCanon) |
+| Cybersecurity and Infrastructure Security Agency | [@CISAInfraSec](https://twitter.com/cisainfrasec?lang=en) |
 | DarkReading | [@DarkReading](https://twitter.com/DarkReading) |
 | DEF CON | [@defcon](https://twitter.com/defcon) |
 | DFRLab | [@DFRLab](https://twitter.com/DFRLab) |
