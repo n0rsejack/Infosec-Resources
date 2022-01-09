@@ -276,6 +276,7 @@
 | Omar Ωr Santos | [@santosomar](https://twitter.com/santosomar) |
 | Phil Hagen | [@santosomar](https://twitter.com/santosomar) |
 | Phill Moore | [@PhilHagen](https://twitter.com/PhilHagen) |
+| Phillip Wylie | [@PhillipWylie](https://www.itspmagazine.com/the-hacker-factory-podcast) |
 | Rachel Tobac | [@RachelTobac](https://twitter.com/RachelTobac) |
 | RedHunt Labs | [@RedHuntLabs](https://twitter.com/RedHuntLabs) |
 | RedTeamVillage | [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) |
@@ -305,6 +306,19 @@
 
 | Name | Description |
 |---|---|
+| Black Hills Information Security | [Black Hills Information Security](https://www.blackhillsinfosec.com/podcasts/) |
 | Blueprint Podcast by John Hubbard | [Blueprint Podcast](https://www.sans.org/blueprint_podcast/) |
+| Breaking Down Security Podcast | [Breaking Down Security Podcast](https://www.brakeingsecurity.com/) |
+| Cipher Brief Open Source Report | [Cipher Brief Open Source Report](https://www.thecipherbrief.com/podcasts) |
+| Cyberwire Daily | [Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast) |
+| Darknet Diaries Podcast | [Darknet Diaries Podcast](https://darknetdiaries.com/) |
+| Defensive Security Podcast | [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/) |
+| Internet Storm Center | [Internet Storm Center](https://isc.sans.edu/podcast.html) |
+| Malicious Life Podcast | [Malicious Life Podcast](https://malicious.life/) |
+| OSINT Curious Podcast | [OSINT Curious Podcast](https://osintcurio.us/osintvideosandpodcasts/) |
+| Privacy Security and OSINT Podcast | [Privacy Security and OSINT Podcast](https://inteltechniques.com/podcast.html) |
+| Recorded Future Podcast | [Recorded Future Podcast](https://www.recordedfuture.com/resources/podcast/) |
+| The Hacker Factory Podcast | [Hacker Factory Podcast](https://www.itspmagazine.com/the-hacker-factory-podcast) |
+| 7 Minute Security | [7 Minute Security](https://7ms.us/tag/podcast/) |
 
 ### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
