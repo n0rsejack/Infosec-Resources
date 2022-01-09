@@ -36,6 +36,21 @@
 |---|---|
 | Awesome-CTF | [Awesome-CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) |
 | Hack the Box | [HTB] |
+| Web Security Academy | [Web Security Academy] |
+| OWASP Juice Shop | [OWASP Juice Shop] |
+| Pentester Lab | [Pentester Lab] |
+| VULNHUB | [VULNHUB] |
+| TryHackMe | [TryHackMe] |
+| Pentester Academy | [Pentester Academy] |
+| Attack & Defense | [Attack and Defense] |
+| Hack.ME | [Hack.ME] |
+| HackingLAB | [Hacking LAB] |
+| Over the Wire | [Over the Wire] |
+| CTF Time | [CTF Time] |
+| Mutillidae | [Mutillidae] |
+| Damn Vulnerable Web Application | [DVWA] |
+| Metasploitable 2 | [Metasploitable 2] |
+| Metasploitable 3 | [Metasploitable 3] |
 
 #### APT's
 
