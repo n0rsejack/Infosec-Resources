@@ -91,14 +91,14 @@
 | Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
 | 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
 
-#### OSINT
+### OSINT
 
 | Name | Description |
 |---|---|
 | Bellingcat's Digital Forensics Tools | [Digital Forensics Tools](https://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) |
 | Github Jivoi Awesome OSINT | [Jivoi Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) |
 
-#### Training
+### Training
 
 | Name | Description |
 |---|---|
@@ -135,7 +135,7 @@
 | OpenSOC | [OpenSOC](https://opensoc.io/) |
 
 
-#### Additional Resources
+### Additional Resources
 
 | Name | Description |
 |---|---|
@@ -179,19 +179,6 @@
 | IR Tales From Hold My Beer Security | [IR Tales](https://holdmybeersecurity.com/category/system-administration/) |
 | Cyberthreat Intelligence Study Plan | [Cyberthreat Intelligence Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
 | DFIRmadness 5pillars | [5pillars of Cybersecurity](https://github.com/DFIRmadness/5pillars) |
-
-### Blue Team Incident Response
-
-| Name | Description |
-|---|---|
-| Top 20 and 200 most scanned ports in the cybersecurity industry | [Top 20 and 200 most scanned ports](https://securitytrails.com/blog/top-scanned-ports) |
-| Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead) |
-| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology) |
-| Kill Chain - (F2T2EA, 4F's, 5F's, Cyber Kill Chain, Mitre, and Unified Kill Chain) | [Kill Chains](https://en.m.wikipedia.org/wiki/Kill_chain) |
-| Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf) |
-| Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
-| 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
-
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
