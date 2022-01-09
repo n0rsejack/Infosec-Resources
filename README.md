@@ -152,6 +152,7 @@
 | Basics of Windows Incident Response by Jordan Potti | [Basics of Windows IR](https://jordanpotti.com/2017/01/20/basics-of-windows-incident-response/) |
 | IR Tales From Hold My Beer Security | [IR Tales](https://holdmybeersecurity.com/category/system-administration/) |
 | Cyberthreat Intelligence Study Plan | [Cyberthreat Intelligence Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
+| DFIRmadness 5pillars | [5pillars of Cybersecurity](https://github.com/DFIRmadness/5pillars) |
 
 ### Blue Team Incident Response
 
