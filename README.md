@@ -47,7 +47,7 @@
 
 #### Red Team
 
-#### Pen Testing Frameworks
+### Pen Testing Frameworks
 
 | Name | Description |
 |---|---|
@@ -59,7 +59,7 @@
 
 #### Blue Team
 
-#### Blue Team Tools
+### Blue Team Tools
 
 | Name | Description |
 |---|---|
