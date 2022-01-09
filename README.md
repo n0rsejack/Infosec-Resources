@@ -254,6 +254,7 @@
 | James Lyne | [@jameslyne](https://twitter.com/jameslyne) |
 | Jason Blanchard | [@BanjoCrashland](https://twitter.com/BanjoCrashland) |
 | Johannes Ullrich | [@johullrich](https://twitter.com/johullrich) |
+| John Hammond | [@_JohnHammond](https://twitter.com/_JohnHammond) |
 | John Hubbard | [@SecHubb](https://twitter.com/SecHubb) |
 | Josh Brower | [@DefensiveDepth](https://twitter.com/DefensiveDepth) |
 | Justin Seitz | [@xKaliSec](https://twitter.com/jms_dot_py) |
