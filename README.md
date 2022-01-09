@@ -179,6 +179,7 @@
 | IR Tales From Hold My Beer Security | [IR Tales](https://holdmybeersecurity.com/category/system-administration/) |
 | Cyberthreat Intelligence Study Plan | [Cyberthreat Intelligence Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
 | DFIRmadness 5pillars | [5pillars of Cybersecurity](https://github.com/DFIRmadness/5pillars) |
+| TCM Practical-Ethical-Hacking-Resources | [TCM Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
