@@ -10,7 +10,7 @@
 #### [Red Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#red-team-1)
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
 #### [Blue Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-1)
-#### [Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#tools-1)
+#### [Blue Team Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-tools-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
 #### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#additional-resources-1)
@@ -58,7 +58,7 @@
 
 #### Blue Team
 
-#### Tools
+#### Blue Team Tools
 
 | Name | Description |
 |---|---|
