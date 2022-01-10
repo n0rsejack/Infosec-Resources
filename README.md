@@ -202,6 +202,7 @@
 | DFIRmadness 5pillars | [5pillars of Cybersecurity](https://github.com/DFIRmadness/5pillars) |
 | TCM Practical-Ethical-Hacking-Resources | [TCM Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) |
 | Blackfog State of Ransomware | [Blackfog State of Ransomware](https://www.blackfog.com/the-state-of-ransomware-in-2021/) |
+| APT Cyber Campaigns | [APT Cyber Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
