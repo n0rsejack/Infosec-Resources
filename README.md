@@ -204,7 +204,8 @@
 | Blackfog State of Ransomware | [Blackfog State of Ransomware](https://www.blackfog.com/the-state-of-ransomware-in-2021/) |
 | APT Cyber Campaigns | [APT Cyber Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) |
 | Security Awareness Training Statistics & Trends 2022 Edition | [Security Awareness Stats and Trends 2022](https://www.securitymentor.com/security-awareness-training-statistics-and-trends) |
-| Security Awareness Training | [Security Awareness Training](https://securityawareness.usalearning.gov/cybersecurity/content/Documents/Common_Cyber_Threats_Indicators_and_Countermeasures.pdf) |
+| Security Awareness Training | [Security Awareness Training](https://securityawareness.usalearning.gov/cybersecurity/content/Documents/Common_Cyber_Threats_Indicators_and_Countermeasures.pdf) 
+| Enterprise Grade Home Lab | [List of Tools for Enterise Grade Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
