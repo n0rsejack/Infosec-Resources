@@ -109,6 +109,8 @@
 | Diamond Model of Intrusion Analysis | [Diamond Model of Intrusion Analysis](https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf) |
 | Diamond Model used in Practice by ThreatConnect | [Diamond Model used on Chinese APT](https://threatconnect.com/blog/tag/diamond-model-of-intrusion-analysis/) |
 | 30 Best Blue Team Tools | [30 Best Blue Team Tools](https://securitytrails.com/blog/blue-team-tools) |
+| Security Soup | [Security Soup](https://security-soup.net/) |
+
 
 ### OSINT
 
@@ -123,7 +125,9 @@
 |---|---|
 | Cyber Threat Intelligence Self-Study Plan | [CTI Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
 | Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead) |
-| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology) |
+| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology)
+| Using the Estimative Language Taxonomy in MISP | [Using the Estimative Language Taxonomy in MISP](https://mchughsecurity.com/2021/05/11/using-the-estimative-language-taxonomy-in-misp/) |
+|
 
 ### Training
 
@@ -209,10 +213,12 @@
 | IR Tales From Hold My Beer Security | [IR Tales](https://holdmybeersecurity.com/category/system-administration/) |
 | Cyberthreat Intelligence Study Plan | [Cyberthreat Intelligence Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
 | DFIRmadness 5pillars | [5pillars of Cybersecurity](https://github.com/DFIRmadness/5pillars) |
+| DFIR Reference Frameworks | [DFIR Reference Frameworks](https://github.com/joshlemon/DFIR-Reference-Frameworks) |
 | TCM Practical-Ethical-Hacking-Resources | [TCM Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) |
 | Blackfog State of Ransomware | [Blackfog State of Ransomware](https://www.blackfog.com/the-state-of-ransomware-in-2021/) |
 | APT Cyber Campaigns | [APT Cyber Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) |
 | Security Awareness Training Statistics & Trends 2022 Edition | [Security Awareness Stats and Trends 2022](https://www.securitymentor.com/security-awareness-training-statistics-and-trends) |
+| The Record Ransomware Tracker | [The Record Ransomware Tracker](https://therecord.media/ransomware-tracker-the-latest-figures/) |
 | Security Awareness Training | [Security Awareness Training](https://securityawareness.usalearning.gov/cybersecurity/content/Documents/Common_Cyber_Threats_Indicators_and_Countermeasures.pdf) 
 | Enterprise Grade Home Lab | [List of Tools for Enterise Grade Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
 
@@ -309,6 +315,7 @@
 | Metacurity | [@Metacurity](https://twitter.com/Metacurity) |
 | Microsoft Security | [@msftsecurity](https://twitter.com/msftsecurity) |
 | Microsoft Security Intelligence | [@MsftSecIntel](https://twitter.com/MsftSecIntel) |
+| MSTIC Team Members | [@JohnLaTwC](https://twitter.com/i/lists/1127980844646141958) |
 | NETRESEC | [@netresec](https://twitter.com/netresec) |
 | Nick Carr | [@ItsReallyNick](https://twitter.com/ItsReallyNick) |
 | nixintel | [@nixintel](https://twitter.com/nixintel) |
