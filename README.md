@@ -13,6 +13,7 @@
 #### [Blue Team Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-tools-1)
 #### [Incident Response](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#incident-response-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
+#### [CTI](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#CTI-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
 #### [Additional Resources](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#additional-resources-1)
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
@@ -115,6 +116,12 @@
 |---|---|
 | Bellingcat's Digital Forensics Tools | [Digital Forensics Tools](https://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) |
 | Github Jivoi Awesome OSINT | [Jivoi Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md) |
+
+### CTI
+
+| Name | Description |
+|---|---|
+| Cyber Threat Intelligence Self-Study Plan | [CTI Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
 
 ### Training
 
