@@ -122,6 +122,8 @@
 | Name | Description |
 |---|---|
 | Cyber Threat Intelligence Self-Study Plan | [CTI Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) |
+| Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead) |
+| Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology) |
 
 ### Training
 
