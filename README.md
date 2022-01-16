@@ -260,6 +260,7 @@
 | ATT&CK | [@MITREattack](https://twitter.com/MITREattack) |
 | Bad Packets | [@bad_packets](https://twitter.com/bad_packets) |
 | BenHeise | [@benheise](https://twitter.com/benheise) |
+| bk Ben Koehl | [@bkMSFT](https://twitter.com/bkMSFT) |
 | Black Hills Information Security | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) |
 | BleepingComputer | [@BleepinComputer](https://twitter.com/BleepinComputer) |
 | Brett Shavers | [@Brett_Shavers](https://twitter.com/Brett_Shavers) |
@@ -270,6 +271,7 @@
 | Center for Internet Security (CIS) | [@CISecurity](https://twitter.com/CISecurity) |
 | Chris Crowley | [@CCrowMontance](https://twitter.com/CCrowMontance) |
 | Chris Sanders | [@chrissanders88](https://twitter.com/chrissanders88) |
+| Christopher Glyer | [@cglyer](https://twitter.com/cglyer) |
 | Cybersecurity and Infrastructure Security Agency | [@CISAgov](https://twitter.com/CISAgov) |
 | Cybersecurity Canon | [@CyberSecCanon](https://twitter.com/CyberSecCanon) |
 | Cybersecurity and Infrastructure Security Agency | [@CISAInfraSec](https://twitter.com/cisainfrasec?lang=en) |
@@ -286,12 +288,16 @@
 | Jake Williams | [@MalwareJake](https://twitter.com/MalwareJake) |
 | James Lyne | [@jameslyne](https://twitter.com/jameslyne) |
 | Jason Blanchard | [@BanjoCrashland](https://twitter.com/BanjoCrashland) |
+| Jeremy Dallman | [@jdallman](https://twitter.com/jdallman) |
 | Johannes Ullrich | [@johullrich](https://twitter.com/johullrich) |
 | John Hammond | [@_JohnHammond](https://twitter.com/_JohnHammond) |
 | John Hubbard | [@SecHubb](https://twitter.com/SecHubb) |
+| John Hultquist | [@JohnHultquist](https://twitter.com/JohnHultquist) |
 | Josh Brower | [@DefensiveDepth](https://twitter.com/DefensiveDepth) |
 | Justin Seitz | [@xKaliSec](https://twitter.com/jms_dot_py) |
+| Justin Warner | [@sixdub](https://twitter.com/sixdub) |
 | KaliTut | [@jms_dot_py](https://twitter.com/xKaliSec) |
+| Katie Nickels | [@likethecoins](https://twitter.com/likethecoins) |
 | kirbstr | [@kirbstr](https://twitter.com/kirbstr) |
 | KitPloit - Hacker Tools | [@KitPloit](https://twitter.com/KitPloit) |
 | Lenny Zeltser | [@lennyzeltser](https://twitter.com/lennyzeltser) |
@@ -304,6 +310,7 @@
 | Microsoft Security | [@msftsecurity](https://twitter.com/msftsecurity) |
 | Microsoft Security Intelligence | [@MsftSecIntel](https://twitter.com/MsftSecIntel) |
 | NETRESEC | [@netresec](https://twitter.com/netresec) |
+| Nick Carr | [@ItsReallyNick](https://twitter.com/ItsReallyNick) |
 | nixintel | [@nixintel](https://twitter.com/nixintel) |
 | Offensive Security | [@offsectraining](https://twitter.com/offsectraining) |
 | Omar Ωr Santos | [@santosomar](https://twitter.com/santosomar) |
@@ -311,6 +318,7 @@
 | Phill Moore | [@PhilHagen](https://twitter.com/PhilHagen) |
 | Phillip Wylie | [@PhillipWylie](https://www.itspmagazine.com/the-hacker-factory-podcast) |
 | Rachel Tobac | [@RachelTobac](https://twitter.com/RachelTobac) |
+| Ramin | [@MalwareRE](https://twitter.com/MalwareRE) |
 | RedHunt Labs | [@RedHuntLabs](https://twitter.com/RedHuntLabs) |
 | RedTeamVillage | [@RedTeamVillage_](https://twitter.com/RedTeamVillage_) |
 | ReversingLabs | [@ReversingLabs](https://twitter.com/ReversingLabs) |
