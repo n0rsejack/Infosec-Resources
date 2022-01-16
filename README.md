@@ -11,7 +11,7 @@
 #### [Pen Testing Frameworks](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#pen-testing-frameworks-1)
 #### [Blue Team](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-1)
 #### [Blue Team Tools](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#blue-team-tools-1)
-#### [Incident Response](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#incident-response-1)
+#### [DFIR](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#DFIR-1)
 #### [OSINT](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#OSINT-1)
 #### [CTI](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#CTI-1)
 #### [Training](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#training-1)
@@ -98,7 +98,7 @@
 | SIEMonster | [SIEMonster](https://siemonster.com/download-community-edition/) |
 | Keeping Infrastructure as Code Secure-KICS | [KICS](https://docs.kics.io/) |
 
-#### Incident Response
+#### DFIR
 
 | Name | Description |
 |---|---|
