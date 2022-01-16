@@ -220,6 +220,9 @@
 | The Record Ransomware Tracker | [The Record Ransomware Tracker](https://therecord.media/ransomware-tracker-the-latest-figures/) |
 | Security Awareness Training | [Security Awareness Training](https://securityawareness.usalearning.gov/cybersecurity/content/Documents/Common_Cyber_Threats_Indicators_and_Countermeasures.pdf) 
 | Enterprise Grade Home Lab | [List of Tools for Enterise Grade Home Lab](https://github.com/aboutsecurity/blueteam_homelabs) |
+| CyberScoop | [CyberScoop](https://www.cyberscoop.com/) |
+| FedScoop | [FedScoop](https://www.fedscoop.com/) |
+| StateScoop | [StateScoop](https://statescoop.com/) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
