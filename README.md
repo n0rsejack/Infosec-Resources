@@ -224,6 +224,7 @@
 | FedScoop | [FedScoop](https://www.fedscoop.com/) |
 | StateScoop | [StateScoop](https://statescoop.com/) |
 | Blue Team Home Labs | [Blue Team Home Labs](https://github.com/aboutsecurity/blueteam_homelabs) |
+| Ransomware Reports | [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
