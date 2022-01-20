@@ -37,18 +37,17 @@
 | Name | Description |
 |---|---|
 | Awesome-CTF | [Awesome-CTF](https://github.com/apsdehal/awesome-ctf/blob/master/README.md) |
-| Hack the Box | [HTB] |
-| Hack the Box Academy | [Hack the Box Academy] |
-| Web Security Academy | [Web Security Academy] |
-| OWASP Juice Shop | [OWASP Juice Shop] |
-| Pentester Lab | [Pentester Lab] |
-| VULNHUB | [VULNHUB] |
-| TryHackMe | [TryHackMe] |
-| Pentester Academy | [Pentester Academy] |
+| Hack the Box | [HTB](https://www.hackthebox.com/) |
+| Hack the Box Academy | [Hack the Box Academy](https://academy.hackthebox.com/) |
+| Web Security Academy | [Web Security Academy](https://portswigger.net/web-security) |
+| OWASP Juice Shop | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) |
+| Pentester Lab | [Pentester Lab](https://pentesterlab.com/) |
+| VULNHUB | [VULNHUB](https://www.vulnhub.com/) |
+| TryHackMe | [TryHackMe](https://tryhackme.com/) |
+| Pentester Academy | [Pentester Academy](https://www.pentesteracademy.com/) |
 | Attack & Defense | [Attack and Defense] |
-| Hack.ME | [Hack.ME] |
 | HackingLAB | [Hacking LAB] |
-| Over the Wire | [Over the Wire] |
+| Over the Wire | [Over the Wire](https://overthewire.org/wargames/) |
 | CTF Time | [CTF Time] |
 | Mutillidae | [Mutillidae] |
 | Damn Vulnerable Web Application | [DVWA] |
