@@ -225,6 +225,8 @@
 | Blue Team Home Labs | [Blue Team Home Labs](https://github.com/aboutsecurity/blueteam_homelabs) |
 | Ransomware Reports | [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports) |
 | Awesome Phishing | [Awesome Phishing](https://github.com/PhishyAlice/awesome-phishing/blob/master/README.md) |
+| Curated Intel | [Curated Intel](https://github.com/curated-intel/Ukraine-Cyber-Operations) |
+| Intel | [Intel](https://miburo.substack.com/p/russias-propaganda-and-disinformation?s=r) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
