@@ -19,6 +19,7 @@
 #### [Names to Follow](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#names-to-follow-1)
 #### [Twitter](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#twitter-1)
 #### [Podcasts](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#podcasts-1)
+#### [Note](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#Note-1)
 
 ### Resources
 
@@ -375,5 +376,9 @@
 | Recorded Future Podcast | [Recorded Future Podcast](https://www.recordedfuture.com/resources/podcast/) |
 | The Hacker Factory Podcast | [Hacker Factory Podcast](https://www.itspmagazine.com/the-hacker-factory-podcast) |
 | 7 Minute Security | [7 Minute Security](https://7ms.us/tag/podcast/) |
+
+### Note
+
+Disclaimer, I not support, encourage, partake, or condone hacking, attacking or targeting users of any kind. This information is clearly meant to help cybersecurity teams in doing their jobs and learning skills necessary for Redteam/Blueteam activities.
 
 ### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
