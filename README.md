@@ -167,6 +167,7 @@
 | LetsDefend Blue Team Training | [LetsDefend Blue Team Training](https://letsdefend.io/) |
 | Blue Team Labs Online | [Blue Team Labs Online](https://blueteamlabs.online/) |
 | TCM Security Training | [TCM Security Training](https://academy.tcm-sec.com/) |
+| Cisco Live on Demand | [Cisco Live on Demand](https://www.ciscolive.com/on-demand/on-demand-library.html?search=Securex#/video/1636411305320002rNJE) |
 
 ### Additional Resources
 
