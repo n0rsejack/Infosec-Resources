@@ -229,6 +229,7 @@
 | Curated Ukraine Cyber Crisis | [Curated Intel](https://github.com/curated-intel/Ukraine-Cyber-Operations) |
 | Ukraine Cyber Crisis | [Ukraine Cyber Crisis Intel](https://miburo.substack.com/p/russias-propaganda-and-disinformation?s=r) |
 | SANS Ukraine Cyber Crisis | [SANS Ukraine Cyber Crisis](https://www.sans.org/blog/ukraine-russia-conflict-cyber-resource-center/) |
+| Cisco Mappings to Cyber Frameworks | [Cisco Mappings to Cyber Frameworks](https://www.cisco.com/c/en/us/products/security/cybersecurity-framework-guidance.html) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
