@@ -234,6 +234,8 @@
 | Ukraine Cyber Crisis | [Ukraine Cyber Crisis Intel](https://miburo.substack.com/p/russias-propaganda-and-disinformation?s=r) |
 | SANS Ukraine Cyber Crisis | [SANS Ukraine Cyber Crisis](https://www.sans.org/blog/ukraine-russia-conflict-cyber-resource-center/) |
 | Cisco Mappings to Cyber Frameworks | [Cisco Mappings to Cyber Frameworks](https://www.cisco.com/c/en/us/products/security/cybersecurity-framework-guidance.html) |
+| Cisco Talos OSQueries | [TALOS OSQueries](https://github.com/Cisco-Talos/osquery_queries) |
+| OSQuery ATT&CK | [OSQuery ATT&CK](https://github.com/teoseller/osquery-attck) |
 
 ### Warfare Studies
 | Air Force Intelligence and Security Doctrine | Air Force Doctrine Documents |
