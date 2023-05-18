@@ -83,6 +83,8 @@
 | Name | Description |
 |---|---|
 | urlscan.io | [urlscan](https://urlscan.io) |
+| echotrail.io | [echotrail](https://www.echotrail.io/) |
+| any.run | [any.run](https://any.run/) |
 | Threat Connect | [Threat Connect](https://www.threatconnect.com/) |
 | AlienVault OTX | [AlientVault OTX](https://www.alienvault.com/open-threat-exchange) |
 | IBM X-Force Exchange | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) |
