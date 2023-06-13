@@ -99,6 +99,8 @@
 | Zmap Project Research | [Zmap Project Research](https://zmap.io/research) |
 | SIEMonster | [SIEMonster](https://siemonster.com/download-community-edition/) |
 | Keeping Infrastructure as Code Secure-KICS | [KICS](https://docs.kics.io/) |
+| Velociraptor | [Velociraptor](https://docs.velociraptor.app/) |
+| Blue Hound | [Blue Hound](https://github.com/zeronetworks/BlueHound) |
 
 #### DFIR
 
