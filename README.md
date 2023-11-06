@@ -102,6 +102,14 @@
 | Velociraptor | [Velociraptor](https://docs.velociraptor.app/) |
 | Blue Hound | [Blue Hound](https://github.com/zeronetworks/BlueHound) |
 
+#### Logging Resources
+
+| Name | Description |
+|---|---|
+| Malware Archaeology | [Malware Archaeology Cheet Sheets](https://www.malwarearchaeology.com/cheat-sheets) |
+| Malware Archaelogy Powershell logging Cheatsheet | [MA Powershell Logging Cheatsheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5ba3dc87e79c703f9bfff29a/1537465479833/Windows+PowerShell+Logging+Cheat+Sheet+ver+Sept+2018+v2.2.pdf) |
+| Powershell & Commandline Logging | [Powershell & Commandline Logging](https://logrhythm.com/blog/powershell-command-line-logging/) |
+
 #### DFIR
 
 | Name | Description |
