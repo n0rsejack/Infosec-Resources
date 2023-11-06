@@ -117,7 +117,7 @@
 |---|---|
 | Verizon DBIR | [Verizon DBIR](https://www.verizon.com/business/resources/reports/dbir/) |
 | Mandiant M-Trends | [M-Trends Report](https://www.mandiant.com/m-trends) |
-| Red Canary Threat Detection Report | | [Red Canary Threat Detection Report](https://redcanary.com/threat-detection-report/) |
+| Red Canary Threat Detection Report | [Red Canary Threat Detection Report](https://redcanary.com/threat-detection-report/) |
 | The DFIR Report | [The DFIR Year in Review Report](https://thedfirreport.com/category/year-in-review/) |
 | Microsoft Digital Defense Report | [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/security-intelligence-report?rtc=1) |
 | Orange Cyberdefense Security Navigator | [Orange Cyberdefense Security Navigator](https://www.orangecyberdefense.com/global/security-navigator) |
