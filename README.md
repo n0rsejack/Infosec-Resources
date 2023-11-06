@@ -111,7 +111,7 @@
 | Powershell & Commandline Logging | [Powershell & Commandline Logging](https://logrhythm.com/blog/powershell-command-line-logging/) |
 | Command Shell Logging ATT&CK ID: DS0017 -> T1059.003 | [Red Canary Command Shell Logging](https://redcanary.com/threat-detection-report/techniques/windows-command-shell/) |
 
-#### Annual Reports
+#### Annual Threat Reports
 
 |Name | Description |
 |---|---|
