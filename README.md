@@ -109,6 +109,18 @@
 | Malware Archaeology | [Malware Archaeology Cheet Sheets](https://www.malwarearchaeology.com/cheat-sheets) |
 | Malware Archaelogy Powershell logging Cheatsheet | [MA Powershell Logging Cheatsheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5ba3dc87e79c703f9bfff29a/1537465479833/Windows+PowerShell+Logging+Cheat+Sheet+ver+Sept+2018+v2.2.pdf) |
 | Powershell & Commandline Logging | [Powershell & Commandline Logging](https://logrhythm.com/blog/powershell-command-line-logging/) |
+| Command Shell Logging ATT&CK ID: DS0017 -> T1059.003 | [Red Canary Command Shell Logging](https://redcanary.com/threat-detection-report/techniques/windows-command-shell/) |
+
+#### Annual Reports
+
+|Name | Description |
+|---|---|
+| Verizon DBIR |
+| Mandiant M-Trends |
+| Red Canary Threat Detection Report |
+| The DFIR Report |
+| Microsoft Digital Defense Report |
+| Orange Cyberdefense Security Navigator |
 
 #### DFIR
 
