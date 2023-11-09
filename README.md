@@ -154,7 +154,7 @@
 | Intelligence Concepts - F3EAD | [Intelligence Concepts - F3EAD](https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead) |
 | Cyber Threat Intelligence SIG - Intelligence Lifecycle  - F3EAD Cycle | [FIRST Intelligence Lifecycle - F3EAD](https://www.first.org/global/sigs/cti/curriculum/methods-methodology)
 | Using the Estimative Language Taxonomy in MISP | [Using the Estimative Language Taxonomy in MISP](https://mchughsecurity.com/2021/05/11/using-the-estimative-language-taxonomy-in-misp/) |
-| Levels of Confidence and Probability Yardstick | [Levels of Confidence & Probability Yardstick](https://www.intelligencewithsteve.com/post/what-are-the-odds) |
+| Analytic Levels of Confidence and Probability Yardstick | [Levels of Confidence & Probability Yardstick](https://www.intelligencewithsteve.com/post/what-are-the-odds) |
 
 ### Training
 
