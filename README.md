@@ -112,6 +112,15 @@
 | Command Shell Logging ATT&CK ID: DS0017 -> T1059.003 | [Red Canary Command Shell Logging](https://redcanary.com/threat-detection-report/techniques/windows-command-shell/) |
 | Command Shell Logging ATT&CK ID: DS0017 -> T1059.001 | [Red Canary Powershell Logging](https://redcanary.com/threat-detection-report/techniques/powershell/) |
 
+#### Threat Research
+
+| Name | Description |
+|---|---|
+| Blackfog State of Ransomware | [Blackfog State of Ransomware](https://www.blackfog.com/blog/) |
+| ThreatMon Advanced Ransomware Monitoring | [ThreatMon](https://twitter.com/TMRansomMonitor) |
+| DataBreaches.net | [DataBreaches.net](https://www.databreaches.net/) |
+| Mitre ATT&CK | [Mitre ATT&CK](https://attack.mitre.org/) |
+
 #### Annual Threat Reports
 
 |Name | Description |
