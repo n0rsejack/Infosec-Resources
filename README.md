@@ -102,6 +102,13 @@
 | Velociraptor | [Velociraptor](https://docs.velociraptor.app/) |
 | Blue Hound | [Blue Hound](https://github.com/zeronetworks/BlueHound) |
 
+#### Blue Team Frameworks
+|---|---|
+
+#### Blue Team Best Practices
+|---|---|
+|Network Segmentation | [Best Practices for Network Segmentation](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) |
+
 #### Logging Resources
 
 | Name | Description |
