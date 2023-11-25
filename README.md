@@ -103,9 +103,13 @@
 | Blue Hound | [Blue Hound](https://github.com/zeronetworks/BlueHound) |
 
 #### Blue Team Frameworks
+
+| Name | Description |
 |---|---|
 
 #### Blue Team Best Practices
+
+| Name | Description |
 |---|---|
 |Network Segmentation | [Best Practices for Network Segmentation](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) |
 
