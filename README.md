@@ -112,6 +112,7 @@
 | Name | Description |
 |---|---|
 |Network Segmentation | [Best Practices for Network Segmentation](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) |
+|OWASP Network Segmentation | [OWASP Network Segmentation](https://cheatsheetseries.owasp.org/cheatsheets/Network_Segmentation_Cheat_Sheet.html) |
 
 #### Logging Resources
 
