@@ -76,6 +76,11 @@
 | NIST Guideline on Network Security Testing | [NIST SP800-115](http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf) |
 | OWASP Testing Guide | [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project) |
 
+#### Red Team Notes
+|Name | Description |
+|---|---|
+|Red Teamer Diaries| [Red Teamer Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) |
+
 ### Blue Team
 
 #### Blue Team Tools
@@ -217,6 +222,8 @@
 | Blue Team Labs Online | [Blue Team Labs Online](https://blueteamlabs.online/) |
 | TCM Security Training | [TCM Security Training](https://academy.tcm-sec.com/) |
 | Cisco Live on Demand | [Cisco Live on Demand](https://www.ciscolive.com/on-demand/on-demand-library.html?search=Securex#/video/1636411305320002rNJE) |
+| Game of Active Directory | [GOAD](https://github.com/Orange-Cyberdefense/GOAD) |
+| Detection Lab | [Detection Lab](https://github.com/clong/DetectionLab) |
 
 ### Additional Resources
 
