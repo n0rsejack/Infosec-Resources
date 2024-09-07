@@ -80,6 +80,7 @@
 |Name | Description |
 |---|---|
 |Red Teamer Diaries| [Red Teamer Diaries](https://github.com/ihebski/A-Red-Teamer-diaries) |
+|Red Team Infrastructure Wiki| [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) |
 
 ### Blue Team
 
@@ -111,6 +112,10 @@
 
 | Name | Description |
 |---|---|
+
+| Blue Team Notes |
+|---|---|
+|Active Directory Kill Chain Attack & Defense| [Active Directory Kill Chain](https://github.com/infosecn1nja/AD-Attack-Defense) |
 
 #### Blue Team Best Practices
 
