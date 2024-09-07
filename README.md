@@ -144,6 +144,7 @@
 | ThreatMon Advanced Ransomware Monitoring | [ThreatMon](https://twitter.com/TMRansomMonitor) |
 | DataBreaches.net | [DataBreaches.net](https://www.databreaches.net/) |
 | Mitre ATT&CK | [Mitre ATT&CK](https://attack.mitre.org/) |
+| CERT Orange Cyber Defense Ransomware Map | [CERT Orange Cyber Ransomware Map](https://github.com/cert-orangecyberdefense/ransomware_map/blob/main/OCD_WorldWatch_Ransomware-ecosystem-map.pdf) |
 
 #### Annual Threat Reports
 
