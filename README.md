@@ -111,8 +111,6 @@
 #### Blue Team Frameworks
 
 | Name | Description |
-|---|---|
-
 | Blue Team Notes |
 |---|---|
 |Active Directory Kill Chain Attack & Defense| [Active Directory Kill Chain](https://github.com/infosecn1nja/AD-Attack-Defense) |
