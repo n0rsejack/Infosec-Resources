@@ -146,6 +146,7 @@
 | Mitre ATT&CK | [Mitre ATT&CK](https://attack.mitre.org/) |
 | CERT Orange Cyber Defense Ransomware Map | [CERT Orange Cyber Ransomware Map](https://github.com/cert-orangecyberdefense/ransomware_map/blob/main/OCD_WorldWatch_Ransomware-ecosystem-map.pdf) |
 | Cyber Threat Actor Naming | [New Comers Guide to Threat Actor Naming](https://cyb3rops.medium.com/the-newcomers-guide-to-cyber-threat-actor-naming-7428e18ee263) |
+| APT Groups and Operations | [APT Groups and Operations](https://www.google.com/url?q=https://apt.threattracking.com&sa=D&source=editors&ust=1725736434391314&usg=AOvVaw0zvw5KpK8ua_8O_iwgzYq_) |
 
 #### Annual Threat Reports
 
