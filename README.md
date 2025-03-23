@@ -462,6 +462,6 @@
 
 ### Note
 
-Disclaimer, I do not support, encourage, partake, or condone hacking, attacking or targeting users of any kind. This information is clearly meant to help cybersecurity teams in doing their jobs and learning skills necessary for Redteam/Blueteam activities.
+Disclaimer, I do not support, encourage, partake, or condone hacking, attacking or targeting users of any kind. This information is clearly meant to help cybersecurity teams do their jobs and learn skills necessary for Redteam/Blueteam activities.
 
 ### [Back to top](https://github.com/n0rsejack/Infosec-Resources/blob/master/README.md#my-infosec-resources)
