@@ -70,7 +70,7 @@
 
 | Name | Description |
 |---|---|
-| Penetration Testing Framework 0.59 | [Penetration Testing Framework]([www.vulnerabilityassessment.co.uk/Penetration%20Test.html](https://web.archive.org/web/20240524221803/http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)) |
+| Penetration Testing Framework 0.59 | [Penetration Testing Framework](https://web.archive.org/web/20240524221803/http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html) |
 | The Penetration Testing Execution Standard | [PTES](http://www.pentest-standard.org/index.php/Main_Page) |
 | Open Source Security Testing Methodology Manual (OSSTMM) | [OSSTMM](https://www.isecom.org/research.html) |
 | NIST Guideline on Network Security Testing | [NIST SP800-115](http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf) |
