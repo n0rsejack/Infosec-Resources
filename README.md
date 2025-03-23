@@ -428,6 +428,18 @@
 | Wild West Hackin' Fest | [@WWHackinFest](https://twitter.com/WWHackinFest) |
 
 
+#### Mastodon (Infosec.Exchange)
+
+| Name | Description |
+|---|---|
+| Jerry Bell | [@jerry](https://infosec.exchange/@jerry) |
+
+#### Bluesky
+
+| Name | Description |
+|---|---|
+
+
 ### Podcasts
 
 | Name | Description |
