@@ -90,6 +90,7 @@
 |---|---|
 | urlscan.io | [urlscan](https://urlscan.io) |
 | echotrail.io | [echotrail](https://www.echotrail.io/) |
+| xCyclopedia | [xCyclopedia](https://strontic.github.io/xcyclopedia/index) |
 | any.run | [any.run](https://any.run/) |
 | Threat Connect | [Threat Connect](https://www.threatconnect.com/) |
 | AlienVault OTX | [AlientVault OTX](https://www.alienvault.com/open-threat-exchange) |
